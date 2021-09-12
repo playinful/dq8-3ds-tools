@@ -1,0 +1,434 @@
+0000: <nothing>
+0001: Cypress Stick
+0002: Soldier's Sword
+0003: Copper Sword
+0004: Steel Broadsword
+0005: Platinum Sword
+0006: Dream Blade
+0007: Falcon Blade
+0008: Uber Falcon Blade
+0009: Zombiesbane
+000a: Zombie Slayer
+000b: Dragonsbane
+000c: Dragon Slayer
+000d: Blizzard Blade
+000e: Miracle Sword
+000f: Uber Miracle Sword
+0010: Bastard Sword
+0011: Liquid Metal Sword
+0012: Double-edged Sword
+0013: Uber Double-edge
+0014: Rusty Old Sword
+0015: Dragovian Sword
+0016: Dragovian King Sword
+0017: Rapier
+0018: Templar's Sword
+0019: Hell Sabre
+001a: Holy Silver Rapier
+001b: Fallen Angel Rapier
+001c: Shamshir of Light
+001d: Mercury's Rapier
+001e: Bronze Knife
+001f: Dagger
+0020: Poison Moth Knife
+0021: Assassin's Dagger
+0022: Icicle Dirk
+0023: Poison Needle
+0024: Falcon Knife
+0025: Imp Knife
+0026: Sword Breaker
+0027: Eagle Dagger
+0028: Iron Lance
+0029: Holy Lance
+002a: Long Spear
+002b: Partisan
+002c: Battle Fork
+002d: Sandstorm Spear
+002e: Demon Spear
+002f: Hero Spear
+0030: Metal King Spear
+0031: Boomerang
+0032: Reinforced Boomerang
+0033: Edged Boomerang
+0034: Metal Wing Boomerang
+0035: Razor Wing Boomerang
+0036: Swallowtail
+0037: Flametang Boomerang
+0038: Stone Axe
+0039: Iron Axe
+003a: King Axe
+003b: Moon Axe
+003c: Bandit Axe
+003d: Golden Axe
+003e: Battle-axe
+003f: Conqueror's Axe
+0040: Oaken Club
+0041: Giant Mallet
+0042: Sledgehammer
+0043: War Hammer
+0044: Uber War Hammer
+0045: Megaton Hammer
+0046: Flail of Fury
+0047: Flail of Destruction
+0048: Thorn Whip
+0049: Leather Whip
+004a: Snakeskin Whip
+004b: Chain Whip
+004c: Dragontail Whip
+004d: Spiked Steel Whip
+004e: Demon Whip
+004f: Scourge Whip
+0050: Gringham Whip
+0051: Farmer's Scythe
+0052: Heavy Hatchet
+0053: Bardiche of Binding
+0054: Hell Scythe
+0055: Steel Scythe
+0056: Wizard's Staff
+0057: Lightning Staff
+0058: Staff of Divine Wrath
+0059: Magma Staff
+005a: Staff of Antimagic
+005b: Rune Staff
+005c: Staff of Resurrection
+005d: Magical Mace
+005e: Hunter's Bow
+005f: Great Bow
+0060: Short Bow
+0061: Odin's Bow
+0062: Cheiron's Bow
+0063: Eros' Bow
+0064: Plain Clothes
+0065: Bandit's Grass Skirt
+0066: Wayfarer's Clothes
+0067: Boxer Shorts
+0068: Dancer's Costume
+0069: Leather Kilt
+006a: Leather Dress
+006b: Templar's Uniform
+006c: Fur Poncho
+006d: Cloak of Evasion
+006e: Bunny Suit
+006f: Silk Bustier
+0070: Magic Bikini
+0071: Spangled Dress
+0072: Posh Waistcoat
+0073: Magical Skirt
+0074: Shimmering Dress
+0075: Dark Robe
+0076: Dangerous Bustier
+0077: Divine Bustier
+0078: Jessica's Outfit
+0079: Leather Armour
+007a: Scale Armour
+007b: Chain mail
+007c: Bronze Armour
+007d: Iron Cuirass
+007e: Iron Armour
+007f: Tortoise Shell
+0080: Full Plate Armour
+0081: Silver Cuirass
+0082: Dancer's Mail
+0083: Silver Mail
+0084: Dragon Mail
+0085: Magic Armour
+0086: Zombie Mail
+0087: Heavy Armour
+0088: Spiked Armour
+0089: Platinum Mail
+008a: Bandit Mail
+008b: Sacred Armour
+008c: Gigant Armour
+008d: Mirror Armour
+008e: Liquid Metal Armour
+008f: Dragovian Armour
+0090: Metal King Armour
+0091: Silk Robe
+0092: Leather Cape
+0093: Robe of Serenity
+0094: Magic Vestment
+0095: Flowing Dress
+0096: Sage's Robe
+0097: Angel's Robe
+0098: Velvet Cape
+0099: Crimson Robe
+009a: Princess's Robe
+009b: Dragon Robe
+009c: Pot Lid
+009d: Leather Shield
+009e: Scale Shield
+009f: Silver Platter
+00a0: Kitty Shield
+00a1: Bronze Shield
+00a2: Templar's Shield
+00a3: Iron Shield
+00a4: Light Shield
+00a5: White Shield
+00a6: Steel Shield
+00a7: Magic Shield
+00a8: Dragon Shield
+00a9: Power Shield
+00aa: Saintess Shield
+00ab: Bone Shield
+00ac: Mirror Shield
+00ad: Ogre Shield
+00ae: Silver Shield
+00af: Big Boss Shield
+00b0: Ruinous Shield
+00b1: Thanatos' Shield
+00b2: Goddess Shield
+00b3: Dragovian Shield
+00b4: Metal King Shield
+00b5: Bandana
+00b6: Leather Hat
+00b7: Hairband
+00b8: Pointy Hat
+00b9: Feathered Cap
+00ba: Turban
+00bb: Silver Tiara
+00bc: Bunny Ears
+00bd: Stone Hardhat
+00be: Iron Helmet
+00bf: Fur Hood
+00c0: Bronze Helmet
+00c1: Coral Hairpin
+00c2: Pirate's Hat
+00c3: Iron Mask
+00c4: Hermes' Hat
+00c5: Platinum Headgear
+00c6: Magical Hat
+00c7: Happy Hat
+00c8: Hades' Helm
+00c9: Slime Crown
+00ca: Mythril Helm
+00cb: Mercury's Bandana
+00cc: Scholar's Cap
+00cd: Thinking Cap
+00ce: Iron Headgear
+00cf: Raging Bull Helm
+00d0: Golden Tiara
+00d1: Great Helm
+00d2: Phantom Mask
+00d3: Skull Helm
+00d4: Dragovian Helm
+00d5: Sun Crown
+00d6: Metal King Helm
+00d7: Agility Ring
+00d8: Meteorite Bracer
+00d9: Strength Ring
+00da: Gold Ring
+00db: Prayer Ring
+00dc: Recovery Ring
+00dd: Goddess Ring
+00de: Gospel Ring
+00df: Life Bracer
+00e0: Mighty Armlet
+00e1: Gold Bracer
+00e2: Ruby of Protection
+00e3: Titan Belt
+00e4: Scholar's Specs
+00e5: Tough Guy Tattoo
+00e6: Slime Earrings
+00e7: Devil's Tail
+00e8: Fishnet Stockings
+00e9: Garter
+00ea: Lady's Ring
+00eb: Gold Rosary
+00ec: Sorcerer's Ring
+00ed: Skull Ring
+00ee: Holy Talisman
+00ef: Ring of Awakening
+00f0: Full Moon Ring
+00f1: Ring of Clarity
+00f2: Ring of Truth
+00f3: Ring of Immunity
+00f4: Catholicon Ring
+00f5: Dragon Scale
+00f6: Elevating SHoes
+00f7: Medicinal Herb
+00f8: Antidotal Herb
+00f9: Moonwort Bulb
+00fa: Strong Medicine
+00fb: Special Medicine
+00fc: Lesser Panacea
+00fd: Greater Panacea
+00fe: Rose-root
+00ff: Rose-wort
+0100: Strong Antidote
+0101: Special Antidote
+0102: Moon's Mercy
+0103: Mystifying Mixture
+0104: Yggdrasil Leaf
+0105: Yggdrasil Dew
+0106: Amor Seco Essence
+0107: Chimaera Wing
+0108: Holy Water
+0109: Magic Water
+010a: Elfin Elixir
+010b: Rockbomb Shard
+010c: Sage's Stone
+010d: Seed of Strength
+010e: Seed of Agility
+010f: Seed of Defence
+0110: Seed of Wisdom
+0111: Seed of Skill
+0112: Seed of Life
+0113: Seed of Magic
+0114: Mini Medal
+0115: Thief's Key
+0116: Magic Key
+0117: Ultimate Key
+0118: Orichalcum
+0119: Bunny Tail
+011a: Timbrel of Tension
+011b: Baumren's Bell
+011c: Gold Nugget
+011d: Iron Nail
+011e: Cowpat
+011f: Dragon Dung
+0120: Rock Salt
+0121: Saint's Ashes
+0122: Wing of Bat
+0123: Magic Beast Hide
+0124: Fresh Milk
+0125: Rennet Powder
+0126: Red Mould
+0127: Waterweed Mould
+0128: Premium Mould
+0129: Plain Cheese
+012a: Spicy Cheese
+012b: Super Spicy Cheese
+012c: Scorching CHeese
+012d: Cool Cheese
+012e: Chilly Cheese
+012f: Cold Cheese
+0130: C-C-Cold Cheese
+0131: Double Bubble
+0132: Eau de Monster
+0133: Super Seed of Skill
+0134: Mild Cheese
+0135: Cured Cheese
+0136: Angel Cheese
+0137: Hard Cheese
+0138: Soft Cheese
+0139: Chunky Cheese
+013a: Highly-Strung Cheese
+013b: Crystal Ball
+013c: Tool Bag
+013d: Jessica's Letter
+013e: Templar's Ring
+013f: World Map
+0140: Venus' Tear
+0141: Moonshadow Harp
+0142: Sand of Serenity
+0143: Lizard Humour
+0144: Argon Heart
+0145: Great Big Argon Heart
+0146: Magic Mirror
+0147: Sun Mirror
+0148: Stone Sword
+0149: Kran Spinels
+014a: 'The Big Book of Barriers'
+014b: Marta's Bag
+014c: Illuminated Sea Chart
+014d: Nook Grass
+014e: Godbird's Soulstone
+014f: Darktree Leaf
+0150: Templar Captain's Ring
+0151: Argon Ring
+0152: Echo Flute
+0153: Eros' Bow Recipe
+0154: Imp Knife Recipe
+0155: Dragon Slayer Recipe
+0156: Thief's Key Recipe
+0157: Morrie's Memo #1
+0158: Morrie's Memo #2
+0159: Morrie's Memo #3
+015a: Monster Arena Key
+015b: Godbird Sceptre
+015c: Gold Orb
+015d: Silver Orb
+015e: Red Orb
+015f: Blue Orb
+0160: Green Orb
+0161: Yellow Orb
+0162: Purple Orb
+0163: Copper Monster Coin
+0164: Silver Monster Coin
+0165: Gold Monster Coin
+0166: Flame Shield
+0167: Ice Shield
+0168: Erdrick's Sword
+0169: Demonsbane
+016a: Dread Dagger
+016b: Golden Gar
+016c: Black Buzzard
+016d: Bad Axe
+016e: Candy Cane
+016f: Honking Hammer
+0170: Wizardly Whip
+0171: Slime Stick
+0172: Night Sniper
+0173: Iron Claw
+0174: Fire Claw
+0175: Cobra Claw
+0176: King Cobra Claw
+0177: Beast Claw
+0178: Beast Talon
+0179: Dragon Claw
+017a: Dragonlord Claw
+017b: Orichalcum Claw
+017c: Gryphon Talon
+017d: Iron Fan
+017e: Peacock Fan
+017f: Rainbow Fan
+0180: Stellar Fan
+0181: Lunar Fan
+0182: Solar Fan
+0183: Dryspell Fan
+0184: Kaleidoscope
+0185: Fan of Peace
+0186: Big Bad Boss Shield
+0187: Gothic Mitre
+0188: Dogsbody's Hood
+0189: Hexlet's Hat
+018a: Kunoichi Headband
+018b: Mad Cap
+018c: Gothic Vestment
+018d: Dogsbody's Vest
+018e: Nitid Tutu
+018f: Hexlet's Skirt
+0190: Abiding Blazer
+0191: Oriental Warrior Wear
+0192: Butler's Best
+0193: Jester's Outfit
+0194: Cap'n's Clothes
+0195: Mandarin Dress
+0196: Kunoichi Costume
+0197: Uber Sacred Armour
+0198: White Gold Bell
+0199: Darksteel Bell
+019a: Ethereal Stone
+019b: Alistair's Armour
+019c: Metal Slime Earrings
+019d: Fire Dragon Charm
+019e: Light Dragon Charm
+019f: Lord's Bracer
+01a0: Super Double Bubble
+01a1: Super Seed of Agility
+01a2: Super Seed of Defence
+01a3: Super Seed of Strength
+01a4: Super Seed of Wisdom
+01a5: Super Seed of Magic
+01a6: Super Seed of Life
+01a7: Metal Slime Platter
+01a8: Healie Hat
+01a9: Healie T-shirt
+01aa: Hearty Ring
+01ab: Lucky Pendant
+01ac: Golden Slippers
+01ad: Ye Olde Sword of Erdrick
+01ae: DUMMY 7
+01af: DUMMY 8
+01b0: DUMMY 9
+01b1: <game crash>

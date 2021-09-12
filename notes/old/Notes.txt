@@ -1,0 +1,77 @@
+No change: Gold = 2446, Yangus EXP = 7749645, All Skills 100, 381 Medicinal Herbs
+Change 11620-01 to 0A: Gold = 2702 (+01 byte, +256G)
+Change 11620-01 to 0B: Gold = 2958 (+02 byte, +512G)
+Change 11620-01 to 10: Gold = 4238 (+07 byte, +1792G)
+11620-02 -> 01: Gold = 67982 (+01 byte, +65536G)
+11620-02 -> 10: Gold = 1051022 (+10 byte, +1048576G)
+11620-00 -> 8F: Gold = 2447 (+01 byte, +1G)
+11620-00 -> 9E: Gold = 2462 (+10 byte, +16G)
+11620-00..02 -> FFFFFF: Projected = 1052928; Real = 16777215 (I fucked up actually, sorry)
+11620-03 -> 01: Gold = 16779662 (+01 byte, +16777216G)
+11620-04 -> 01: Gold = 2446 (+01 byte, +0G)
+11620-00..03 -> FFFFFFFF: Projected = 4294967295; Real = -1
+11620-00..03 -> FFC99A3B: Projected = 999999999; Real = 999999999
+11620-00..03 -> 00CA9A3B: 1000000000G
+11620..11623 -> FEFFFFFF: -2G
+11620..11623 -> FDFFFFFF: -3G
+11620..11623 -> 00FFFFFF: -256G
+11620..11623 -> FFFFFFFE: -16777217G
+11620..11623 -> FFFFFF80: -2130706433G
+11620..11623 -> FFFFFF70: 1895825407G
+11620..11623 -> FFFFFF77: 2013265919G
+11620..11623 -> FFFFFF78: 2030043135G
+11620..11623 -> 00000080: -2147483648G
+11620..11623 -> FFFFFF70: 1895825407G
+11620..11623 -> FFFFFF7F: 2147483647G
+11608..1161E -> 4100620063006400650066006700680069006A006B006C: Hero name becomes "Abcdefghijkl[circle]"
+11E50..11E53 -> 01000000: Yangus' EXP becomes 1. Level and stats do not change.
+11E32..11E38 -> 32001600080004: Hero's Spears SP becomes 50; Boomerangs SP becomes 22; Fisticuffs SP becomes 8; Courage SP becomes 4. Spells and abilities revert to match respective skill points.
+146A8 -> 7F: No change?
+C20=7C,116F6=7B,11924=7A,146A8=79,20FAE=78,22306=77,22538=76,31BBE=75:379 Medicinal Herbs (-2)
+116F6..116FF -> 77777777777777777777: Game crashes when viewing item bag.
+116F6 -> FF: 511 Medicinal Herbs
+116F6..116F7 -> FFFF: -1 Medicinal Herb
+116F6..116F8 -> FFFFFF: -1 Medicinal Herb
+116F6..116F9 -> FFFFFFFF: Game crashes when viewing item bag.
+116F6..116F7 -> FF7F: 32767 Medicinal Herbs
+116FA..116FB -> FF7F: 32767 Strong Medicines
+116F6..11882 edits: Lead to item discoveries
+116F6..11DBA edits: Crash upon file select
+11700->FC: ???
+116F8..11880 edits: 
+144C4..114C7 -> FFFFFFFF;
+144A4..144A7 -> FFFFFF7F;
+144A8..144A9 -> 0200;
+144B8 -> FF;
+144BC..144BE -> 010000;
+144B4..144B5 -> FF;
+144B0..144B1 -> 5C11;
+144AC -> 64;
+1449C..1449F -> 00000000: nothing?
+144A0..144A3 -> 00000000: distance travelled in battle log becomes 0.0miles
+144C8..144CB -> 00000000: Cleared Game completion time becomes 0:00
+144CC..144CF -> 00000000: Cleared Game distance travelled becomes 0.0miles
+144C8..144CF -> 0100000001000000: 0:00, 0.0mi
+144C8..144CF -> 0A000000: 0:00, 0.0mi
+144C8..144CF -> 64: 0:01,0.0mi
+144C8..144CF -> E803: 0:16,0.0mi
+144C8..144CF -> 1027: 2:46,0.0mi
+144C8..144CF -> FFFFFF7F: 596523:14, 9999.9mi
+144C8..144CF -> FFFFFFFF: 1193046:28, 9999.9 mi
+144CC..144CF -> FFFFFF3F: 0.0mi
+144CC..144CF -> 00000080: -0.0mi
+144CC..144CF -> F0D8FF7F: 9999.9mi
+11ECC..11ECD -> DB03: nothing?
+144A0..144A3 -> 01000000: 0.0mi
+"               00010000: 0.0mi
+"               00000100: 0.0mi
+"               00000001: 0.0mi
+"               FF000000: 0.0mi
+"               00FF0000: 0.0mi
+"               0000FF00: 0.0mi
+"               000000FF: -21267648942717726000000000000mi
+"               FFFF0000: 0.0mi
+"               FFFFFF00: 1045.5mi
+"               FFFFFFFF: 9999.9mi
+
+Findings:

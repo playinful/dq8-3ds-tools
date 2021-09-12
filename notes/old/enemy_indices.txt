@@ -1,0 +1,623 @@
+0000: None / No Monsters Fought
+0001: Slime
+0002: Candy cat
+0003: Lips
+0004: Dracky
+0005: Satyr
+0006: Capsichum
+0007: Bunicorn
+0008: She-slime
+0009: Mischievous mole
+000A: Mecha-mynah
+000B: Bubble slime
+000C: Dancing devil
+000D: Bodkin archer
+000E: Skipper
+000F: Drackmage
+0010: Beetleboy
+0011: Imp
+0012: Funghoul
+0013: Fencing fox
+0014: Healslime
+0015: Hammerhood
+0016: Jailcat
+0017: Frogface {Face-down}
+0018: Lump mage
+0019: Winky
+001A: Spiked hare
+001B: Chainine
+001C: Giant moth
+001D: Dingaling
+001E: Jargon
+001F: Drackyma
+0020: Bullfinch
+0021: Bag o' laughs
+0022: Skeleton
+0023: Metal slime
+0024: Scorpion
+0025: Morphean mushroom
+0026: Brownie
+0027: Flyguy
+0028: Puppeteer
+0029: Bodkin bowyer
+002A: Night sneaker
+002B: Mummy boy
+002C: Hell hornet
+002D: Pan piper
+002E: Slime knight
+002F: Clockwork cuckoo
+0030: Treeface
+0031: Kisser
+0032: Diemon
+0033: Walking corpse
+0034: Fat bat
+0035: Night fox
+0036: Paprikan
+0037: Chimaera
+0038: Hood
+0039: Headhunter
+003A: Minidemon
+003B: Gorerilla
+003C: Mud mannequin
+003D: Cannibox
+003E: Goodybag
+003F: Witch
+0040: Mummy
+0041: Cureslime
+0042: Restless armour
+0043: Phantom fencer
+0044: Hipster
+0045: Rockbomb
+0046: Dieablo
+0047: Muddy hand
+0048: Terror tabby
+0049: Devilmoth
+004A: Buffalo wing
+004B: Mumboh-jumboe
+004C: Hunter mech
+004D: Pink pongo
+004E: Liquid metal slime
+004F: Mad mole
+0050: Wailin' weed
+0051: Garuda
+0052: Infernal armour
+0053: Dragonthorn
+0054: Mars rover
+0055: Peeper
+0056: Cockateer
+0057: Great sabrecat
+0058: Metal slime knight
+0059: Puppet player
+005A: Spitnik
+005B: Bodkin fletcher
+005C: Venom wasp
+005D: Orc
+005E: Night emperor
+005F: Treevil
+0060: Battle beetle
+0061: Lump shaman
+0062: Skeleton soldier
+0063: Hawk man
+0064: Tap devil
+0065: Mushroom mage
+0066: Redtail hipster
+0067: Jumping jackal
+0068: Gold golem
+0069: King slime
+006A: Iron scorpion
+006B: Toxic zombie
+006C: Lesser demon
+006D: Volpone
+006E: Bomboulder
+006F: Skullrider
+0070: Hades comber
+0071: Frogman {Face-down}
+0072: Mimic
+0073: Magic dumbbell
+0074: Gargoyle
+0075: Magic marionette
+0076: Notso macho
+0077: Lump wizard
+0078: Berserker
+0079: Bulldozer
+007A: Ghoul
+007B: Shade
+007C: Lethal armour
+007D: King cureslime
+007E: Hoodlum
+007F: Hocus chimaera
+0080: Demonrider
+0081: Killer moth
+0082: Jabberwockee
+0083: Silenus
+0084: Robo-robin
+0085: Puppet master
+0086: Death scorpion
+0087: Jackal ripper
+0088: Iron rhino
+0089: Dancing flame
+008A: Blood mummy
+008B: Phantom swordsman
+008C: Hacksaurus
+008D: Bone baron
+008E: Swingin' hipster
+008F: Orc king
+0090: Soulspawn
+0091: Gryphon
+0092: Golem
+0093: Fallen priest
+0094: Dead ringer
+0095: Living statue
+0096: Freeze fly
+0097: Dark slime
+0098: Frostburn
+0099: Hellhound
+009A: Troll
+009B: Ice queen
+009C: Abominape
+009D: Beelzebuzz
+009E: Killing machine
+009F: Icikiller
+00A0: Shadow
+00A1: Metal king slime
+00A2: Frost wyvine
+00A3: Elysium bird
+00A4: Dragurn
+00A5: Smacker
+00A6: Zombie gladiator
+00A7: Stone golem
+00A8: Dark condor
+00A9: Mucho macho
+00AA: Dark skeleton
+00AB: Dark macarbour
+00AC: Tyrantosaurus
+00AD: Demon thunderer
+00AE: Dark star
+00AF: Dark minister
+00B0: Grim rider
+00B1: Dark sea-diva
+00B2: War gryphon
+00B3: Dark turkey
+00B4: Heligator
+00B5: Dark dullahan
+00B6: Killer croaker {Face-down}
+00B7: High roller
+00B8: Darkodile
+00B9: Cyclops
+00BA: Bloody hand
+00BB: Snapdragon
+00BC: Buffalogre
+00BD: Mohawker
+00BE: Archdemon
+00BF: Bobonga
+00C0: Caped caperer
+00C1: Claws
+00C2: Boss troll
+00C3: Mimic king
+00C4: Fowlfighter
+00C5: Dullahan
+00C6: Gigantes
+00C7: Frou-frou
+00C8: Stone guardian
+00C9: Wight priest
+00CA: Hell gladiator
+00CB: Dark slime
+00CC: Shadow
+00CD: Dark skeleton
+00CE: Dark condor
+00CF: Dark macarbour
+00D0: Dark turkey
+00D1: Dark minister
+00D2: Dark dullahan
+00D3: Dark moth
+00D4: Dark star
+00D5: Dark gryphon
+00D6: Darkodile
+00D7: Dark sabrecat
+00D8: Hell hopper
+00D9: Dark devildog
+00DA: Heavy hood
+00DB: Hellstalker
+00DC: Silhouette
+00DD: Democrobot
+00DE: Pandora's box
+00DF: Wight king
+00E0: Invisible swordsman
+00E1: Hellspawn
+00E2: Belial
+00E3: Solaris
+00E4: Great troll
+00E5: Unholy bishop
+00E6: Hell's gatekeeper
+00E7: Crocodog
+00E8: Khalamari kid
+00E9: See urchin
+00EA: Man o' war
+00EB: Yabby
+00EC: King kelp
+00ED: Wild boarfish
+00EE: Khalamari kid
+00EF: See urchin
+00F0: Man o' war
+00F1: Anchorman
+00F2: See angel
+00F3: Squid kid
+00F4: King kelp
+00F5: Crayzee
+00F6: Eveel
+00F7: Merman
+00F8: King squid
+00F9: Octavian sentry
+00FA: Pigmalion
+00FB: Sea dragon
+00FC: Foul anchor
+00FD: Poison eveel
+00FE: Siren
+00FF: Merking
+0100: Seasaur
+0101: Octavian pirate
+0102: Riptide
+0103: Tentacular
+0104: Abyss diver
+0105: Slime
+0106: Firespirit
+0107: Lost soul
+0108: Servant of darkness
+0109: Frogface {Face-up}
+010A: Frogman {Face-up}
+010B: Killer croaker {Face-up}
+010C: Winky {Red}
+010D: Pan piper
+010E: Magic dumbbell Lv. 5
+010F: Dead ringer Lv. 5
+0110: High roller
+0111: Skeleton soldier
+0112: Ghoul
+0113: Anchorman {Red}
+0114: Mum
+0115: Boh
+0116: Jum
+0117: Boe
+0118: Jab
+0119: Ber
+011A: Kee
+011B: Woc
+011C: Head of state
+011D: Body politic
+011E: Right wing
+011F: Left wing
+0120: Jab
+0121: Red Horn
+0122: Blue Fang
+0123: Phoenix
+0124: Night rider
+0125: Corpse corporal
+0126: Great keeper
+0127: Creme caraslime
+0128: Dead bowdy
+0129: Morrimp
+012A: Gold nugcat
+012B: Cherreevil blossom
+012C: Santaclops
+012D: Box of tricks
+012E: Coffer of death
+012F: Coffer of death {2 actions/turn}
+0130: Great keeper
+0131-018F: N/A
+0190: Slime
+0191: Slime
+0192: Hammerhood
+0193: Geyzer
+0194: Mash
+0195: Bangerz
+0196: Khalamari
+0197: Tortured soul
+0198: Trap box
+0199: Don Mole
+019A: Sea dragon
+019B: Argon lizard
+019C: Great Argon lizard
+019D: Dhoulmagus {Form 1}
+019E: Dhoulmagus {Form 1}
+019F: Dhoulmagus {Form 1}
+01A0: Dhoulmagus {Form 1}
+01A1: Dhoulmagus {Form 2}
+01A2: Dhoulmagus {Form 2}
+01A3: Dhoulmagus {Form 2}
+01A4: Evil Jessica
+01A5: Evil Jessica
+01A6: Shadow
+01A7: Hellhound
+01A8: Captain Crow
+01A9: Red Horn
+01AA: Blue Fang
+01AB: Empyrea
+01AC: Gemon
+01AD: Evil Sir Leopold
+01AE: Evil Sir Leopold
+01AF: Marcello
+01B0: Marcello
+01B1: King squid
+01B2: Boss troll
+01B3: Rhapthorne {Form 1}
+01B4: Rhapthorne {Form 1}
+01B5: Rhapthorne {Form 1}
+01B6: Rhapthorne {Form 2, Invulnerable}
+01B7: Rhapthorne {Form 2, Invulnerable}
+01B8: Rhapthorne {Form 2}
+01B9: Rhapthorne {Form 2}
+01BA: Rhapthorne {Form 2}
+01BB: Rhapthorne {Form 2}
+01BC: Lord of the Dragovians {Dragon Form}
+01BD: Lord of the Dragovians {Dragon Form}
+01BE: Lord of the Dragovians {Humanoid Form}
+01BF: Lord of the Dragovians {Humanoid Form}
+01C0: Lord of the Dragovians {Humanoid Form}
+01C1: Vermillion dragon
+01C2: Vermillion dragon
+01C3: Servant of darkness
+01C4: Statue of Hero
+01C5: Statue of Yangus
+01C6: Statue of Jessica
+01C7: Statue of Angelo
+01C8: Megalodon
+01C9: Ruin
+01CA: Soul mole
+01CB: Dancing flame
+01CC: Emerald dragon
+01CD: Emerald dragon
+01CE: Emerald dragon
+01CF: Silver dragon
+01D0: Silver dragon
+01D1: Silver dragon
+01D2: Golden dragon
+01D3: Golden dragon
+01D4: Golden dragon
+01D5: Darksteel dragon
+01D6: Darksteel dragon
+01D7: Darksteel dragon
+01D8: Divine dragon
+01D9: Divine dragon
+01DA: Divine dragon
+01DB: Emerald dragon
+01DC: Emerald dragon
+01DD: Emerald dragon
+01DE: Silver dragon
+01DF: Silver dragon
+01E0: Silver dragon
+01E1: Golden dragon
+01E2: Golden dragon
+01E3: Golden dragon
+01E4: Darksteel dragon
+01E5: Darksteel dragon
+01E6: Darksteel dragon
+01E7: Divine dragon
+01E8: Divine dragon
+01E9: Divine dragon
+01EA: Ultimate dragon
+01EB: Ultimate dragon
+01EC: Ultimate dragon
+01ED: Vermillion dragon
+01EE: Vermillion dragon
+01EF: Juggerwroth {Form 1}
+01F0: Juggerwroth {Form 2}
+01F1: Juggerwroth {Form 2}
+01F2: Juggerwroth {Form 2}
+01F3: Geyzer in Memoriam
+01F4: Tortured Soul in Memoriam
+01F5: Skeleton in Memoriam
+01F6: Walking corpse in Memoriam
+01F7: Trap Box in Memoriam
+01F8: Don Mole in Memoriam
+01F9: Soul Mole in Memoriam
+01FA: Argon Lizard in Memoriam
+01FB: Dhoulmagus in Memoriam {Form 1}
+01FC: Dhoulmagus in Memoriam {Form 1}
+01FD: Dhoulmagus in Memoriam {Form 1}
+01FE: Dhoulmagus in Memoriam {Form 1 (No Drops)}
+01FF: Dhoulmagus in Memoriam {Form 1 (No Drops)}
+0200: Dhoulmagus in Memoriam {Form 2}
+0201: Dhoulmagus in Memoriam {Form 2}
+0202: Dhoulmagus in Memoriam {Form 2}
+0203: Evil Jessica in Memoriam
+0204: Evil Jessica in Memoriam
+0205: Shadow in Memoriam
+0206: Captain Crow in Memoriam
+0207: Gemon in Memoriam
+0208: Darkbird in Memoriam
+0209: Dark Turkey in Memoriam
+020A: Sir Leopold in Memoriam
+020B: Sir Leopold in Memoriam
+020C: Marcello in Memoriam
+020D: Marcello in Memoriam
+020E: Dark Servant in Memoriam
+020F: Dancing Flame in Memoriam
+0210: Ruin in Memoriam
+0211: Estark
+0212: Estark
+0213: Estark
+0214: Estark
+0215-0257: N/A
+0258: Hackzilla
+0259: Fletch
+025A: Slimehopper
+025B: Mechabubo
+025C: Sippy
+025D: Cowboy
+025E: Healer
+025F: Lonely Joe
+0260: McHammer
+0261: Robster
+0262: Archer
+0263: Twiggy
+0264: Squiggles
+0265: Hork
+0266: Moppet
+0267: Smiles
+0268: Bush-W.
+0269: Nightwing
+026A: Goldman
+026B: Fat Cat
+026C: Orcus
+026D: Faunus
+026E: Hoodwink
+026F: Jewelbag
+0270: Dumbking
+0271: Slurpy
+0272: Hori
+0273: Big Al
+0274: Bones
+0275: Flameman
+0276: Sagittari
+0277: Potbelly
+0278: Slime Shady
+0279: Curer
+027A: Klub Kong
+027B: Capers
+027C: Hazel
+027D: Roborg
+027E: Brickman
+027F: Blizag Jr.
+0280: Seasaw
+0281: Salsa
+0282: Tori
+0283: Orrid
+0284: Spike
+0285: Dolldrums
+0286: Brontes
+0287: Arges
+0288: Deadnoble
+0289: Jockey
+028A: Cybot
+028B: Jack Frost
+028C: Torchman
+028D: Foul Fowl
+028E: Bladewolf
+028F: Octurion
+0290: Metaly
+0291: Metabble
+0292: Sugi
+0293: Archfiend
+0294: Steropes
+0295: Pa Troll
+0296: Skeledoid
+0297: Talos
+0298: Nohi
+0299: Stoneman
+029A: Hev
+029B: Mornstar
+029C: Bishop
+029D: Frillsaur
+029E: Gryphus
+029F: Spot
+02A0: Snap Case
+02A1: Scorpius
+02A2: Trick Bag
+02A3: Doug
+02A4: Clio
+02A5: Dimples
+02A6: Mudison
+02A7: Sir Bodless
+02A8: Damon
+02A9: Othello
+02AA: Barry Wight
+02AB: Lumpy
+02AC: Harry
+02AD: Priestley
+02AE: Starsky
+02AF: Ray Churls
+02B0: Ziggy
+02B1: Bo Lete
+02B2: Mushy
+02B3: Madge
+02B4: Michael J.
+02B5: Kim Myra
+02B6: Noddy
+02B7: Digby
+02B8: Hayden
+02B9: Dugan
+02BA: Pierce
+02BB: Philippa
+02BC-031F: N/A
+0320: She-slime {Rank G, Round 1}
+0321: Slime knight {Rank G, Round 1}
+0322: Frogface {Rank G, Round 2 {Face-down}}
+0323: Treeface {Rank G, Round 2}
+0324: Hammerhood {Rank G, Round 3}
+0325: Gorerilla {Rank G, Round 3}
+0326: Bullfinch {Rank G, Round 3}
+0327: Khalamari kid {Rank F, Round 1}
+0328: King kelp {Rank F, Round 1}
+0329: Dingaling {Rank F, Round 2}
+032A: Jargon {Rank F, Round 2}
+032B: Dancing devil {Rank F, Round 3}
+032C: Wailin' weed {Rank F, Round 3}
+032D: Redtail hipster {Rank F, Round 3}
+032E: Jailcat {Rank E, Round 1}
+032F: Terror tabby {Rank E, Round 1}
+0330: Hipster {Rank E, Round 2}
+0331: Minidemon {Rank E, Round 2}
+0332: Witch {Rank E, Round 2}
+0333: Magic marionette {Rank E, Round 3}
+0334: Tap devil {Rank E, Round 3}
+0335: Volpone {Rank E, Round 3}
+0336: Night fox {Rank D, Round 1}
+0337: Night emperor {Rank D, Round 1}
+0338: Night sneaker {Rank D, Round 1}
+0339: Skeleton {Rank D, Round 2}
+033A: Walking corpse {Rank D, Round 2}
+033B: Mummy {Rank D, Round 2}
+033C: Brownie {Rank D, Round 3}
+033D: Hood {Rank D, Round 3}
+033E: See urchin {Rank C, Round 1}
+033F: Siren {Rank C, Round 1}
+0340: Mecha-mynah {Rank C, Round 2}
+0341: Hunter mech {Rank C, Round 2}
+0342: Clockwork cuckoo {Rank C, Round 2}
+0343: Fencing fox {Rank C, Round 3}
+0344: Bone baron {Rank C, Round 3}
+0345: Phantom fencer {Rank C, Round 3}
+0346: Dragurn {Rank B, Round 1}
+0347: Tyrantosaurus {Rank B, Round 1}
+0348: Snapdragon {Rank B, Round 1}
+0349: Stone guardian {Rank B, Round 2}
+034A: Golem {Rank B, Round 2}
+034B: Boss troll {Rank B, Round 2}
+034C: Rockbomb {Rank B, Round 3}
+034D: Stone golem {Rank B, Round 3}
+034E: Living statue {Rank B, Round 3}
+034F: Frou-frou {Rank A, Round 1}
+0350: Cyclops {Rank A, Round 1}
+0351: Troll {Rank A, Round 1}
+0352: Jumping jackal {Rank A, Round 2}
+0353: Great sabrecat {Rank A, Round 2}
+0354: Treevil {Rank A, Round 3}
+0355: Zombie gladiator {Rank A, Round 3
+0356: Bomboulder {Rank A, Round 3}
+0357: Goodybag {Rank S, Round 1}
+0358: Mimic king {Rank S, Round 1}
+0359: Mimic {Rank S, Round 1}
+035A: Dullahan {Rank S, Round 2}
+035B: Healslime {Rank S, Round 2
+035C: Gigantes {Rank S, Round 2}
+035D: Liquid metal slime {Rank S, Round 3}
+035E: Hell gladiator {Rank S, Round 3}
+035F: Cureslime {Rank S, Round 3}
+0360: Frogface {Rank G, Round 2 {Face-up}}
+0361: Slime knight {Rank X, Round 1}
+0362: Fencing fox {Rank X, Round 1}
+0363: Restless armour {Rank X, Round 1}
+0364: Goodybag {Rank X, Round 2}
+0365: Bone baron {Rank X, Round 2}
+0366: Gold golem {Rank X, Round 2}
+0367: Treeface {Rank X, Round 3}
+0368: Morrimp {Rank X, Round 3}
+0369: Treevil {Rank X, Round 3}
+036A-0383: N/A
+0384: Ultrus
+0385: Gracky
+0386: Mazin
+0387: Guaca Mole
+0388-03B5: N/A
+03B6: Prince Charmles
+03B7: Marcello {Party Member}

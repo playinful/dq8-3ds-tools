@@ -1,0 +1,151 @@
+00: 
+01: Slime Knight x1, Healslime x1
+02: Hipster x1, Witch x1
+03: Mummy Boy x2, Mummy x2, Mummy Boy x2
+04: Infernal Armour x1, Cureslime x1
+05: Khalamari Kid x3, King Squid x2, Khalamari Kid x3
+06: Tentacular x1, Khalamari Kid x4, King Squid x1
+07: Treeface x2, Treevil x2, Treeface x2
+08: Cureslime x1, Notso Macho x1
+09: Mummy Boy x3, Blood Mummy x3, Mummy x3
+0A: Buffalogre x1, Mohawker x1
+0B: Liquid Metal Slime x3, Metal King Slime x1, Liquid Metal Slime x3
+0C: Gigantes x1, Stone Guardian x1
+0D: Dark Macarbour x2, Treevil x2, Treeface x2
+0E: Lethal Armour x1, Curselime x2
+0F: Goodybag x1, Night Emperor x1, Goodybag x1
+10: Bag o' Laughs x1, Puppeteer x1, Bag o' Laughs x1
+11: Winky x1, Puppeteer x1, Winky x1
+12: Jum x1, Mum x1, Boh x1, Boe x1
+13: Kee x1, Jab x1, Ber x1, Woc x1
+14: Right Wing x1, Head of State x1, Body Politic x1, Left Wing x1
+15: Jum x1, Boe x1
+16: Red Horn x1, Blue Fang x1
+17-1E: None
+1F: Slime x1, Slime x1, Slime x1
+20: Hammerhood x1
+21: Geyzer x1
+22: Bangerz x1, Mash x1
+23: Khalamari x1
+24: Tortured Soul x1
+25: Trap Box x1
+26: Soul Mole x2, Don Mole x1, Soul Mole x2
+27: Argon Lizard x1
+28: Argon Lizard x1
+29: Argon Lizard x1
+2A: Great Argon Lizard x1
+2B: Sea Dragon x1
+2C: Dhoulmagus {Form 1} x1
+2D: Dhoulmagus {Form 2} x1
+2E: Evil Jessica x1
+2F: Hellhound x8
+30: Hellhound x5
+31: Hellhound x3
+32: Hellhound x3
+33: Hellhound x8
+34: Captain Crow x1
+35: Red Horn x1, Blue Fang x1
+36: Empyrea x1
+37: Dark Turkey x1, Gemon x1, Dark Condor x1
+38: Evil Sir Leopold x1
+39: Marcello x1
+3A: King Squid x1
+3B: Boss Troll x2
+3C: Rhapthorne {Form 1} x1
+3D: Dancing Flame x1, Servant of Darkness x1, Dancing Flame x1
+3E: Statue of Jessica x1, Statue of Hero x1, Statue of Yangus x1, Statue of Angelo x1
+3F: Megalodon x2
+40: Ruin x1
+41: Rhapthorne {Form 2, Invulnerable} x1
+42: Rhapthorne {Form 2} x1
+43: Lord of the Dragovians {Dragon Form} x1
+44: Lord of the Dragovians {Humanoid Form} x1
+45: Lord of the Dragovians {Humanoid Form} x1
+46-4B: None
+4C: Monster Arena: Rank G, Round 1
+4D: Monster Arena: Rank G, Round 2
+4E: Monster Arena: Rank G, Round 3
+4F: Monster Arena: Rank F, Round 1
+50: Monster Arena: Rank F, Round 2
+51: Monster Arena: Rank F, Round 3
+52: Monster Arena: Rank E, Round 1
+53: Monster Arena: Rank E, Round 2
+54: Monster Arena: Rank E, Round 3
+55: Monster Arena: Rank D, Round 1
+56: Monster Arena: Rank D, Round 2
+57: Monster Arena: Rank D, Round 3
+58: Monster Arena: Rank C, Round 1
+59: Monster Arena: Rank C, Round 2
+5A: Monster Arena: Rank C, Round 3
+5B: Monster Arena: Rank B, Round 1
+5C: Monster Arena: Rank B, Round 2
+5D: Monster Arena: Rank B, Round 3
+5E: Monster Arena: Rank A, Round 1
+5F: Monster Arena: Rank A, Round 2
+60: Monster Arena: Rank A, Round 3
+61: Monster Arena: Rank S, Round 1
+62: Monster Arena: Rank S, Round 2
+63: Monster Arena: Rank S, Round 3
+64: Axoraptor x1, Shortshooter x1, One Knight Stand x1
+65: Cannibox x1
+66: Mimic x1
+67: Pandora's Box x1
+68: Lord of the Dragovians {Dragon Form} x1
+69: Lord of the Dragovians {Humanoid Form} x1
+6A: Vermillion Dragon x1
+6B: Lord of the Dragovians {Humanoid Form} x1
+6C: Emerald Dragon x1
+6D: Lord of the Dragovians {Humanoid Form} x1
+6E: Silver Dragon x1
+6F: Lord of the Dragovians {Humanoid Form} x1
+70: Golden Dragon x1
+71: Lord of the Dragovians {Humanoid Form} x1
+72: Darksteel Dragon x1
+73: Lord of the Dragovians {Humanoid Form} x1
+74: Divine Dragon x1
+75: Lord of the Dragovians {Humanoid Form} x1
+76: Vermillion Dragon x1
+77: Emerald Dragon x1
+78: Silver Dragon x1
+79: Golden Dragon x1
+7A: Darksteel Dragon x1
+7B: Divine Dragon x1
+7C: Ultimate Dragon x1
+7D: Mumboh-jumboe x1
+7E: Jabberwockee x1
+7F: Democrobot x1
+80: Coffer of death x1
+81: Monster Arena: Rank X, Round 1
+82: Monster Arena: Rank X, Round 2
+83: Monster Arena: Rank X, Round 3
+84-85: None
+86: None (Default)
+87: Phoenix x1, Great Keeper x1, Phoenix x1
+88: Great Keeper x4
+89: Juggerwroth {Form 1} x1
+8A: Juggerwroth {Form 2} x1
+8B: Geyzer in Memoriam x1
+8C: Tortured Soul in Mem. x1
+8D: Trap Box in Memoriam x1
+8E: Soul Mole in Memoriam x2, Don Mole in Memoriam x1, Soul Mole in Memoriam x2
+8F: Argon Lizard in Mem. x1
+90: Dhoulmagus in Mem. {Form 1} x1, Dhoulmagus in Mem. {Form 1} x1, Dhoulmagus in Mem. {Form 1} x1
+91: Dhoulmagus in Memoriam {Form 2} x1
+92: Evil Jessica in Mem. x1
+93: Captain Crow in Mem. x1
+94: Dark Turkey in Mem. x1, Gemon in Memoriam x1, Darkbird in Memoriam x1
+95: Sir Leopold in Mem. x1
+96: Marcello in Memoriam x1
+97: Dancing Flame in Mem. x1, Dark Servant in Mem. x1, Dancing Flame in Mem. x1
+98: Ruin in Memoriam x1
+99: Estark
+9A: Skeleton in Memoriam x1, Walking Corpse in Mem. x1
+9B: Shadow in Memoriam x1
+9C: Crème Caraslime x1
+9D: Dead Bowdy x1
+9E: Morrimp x1
+9F: Gold Nugcat x1
+A0: Cherreevil Blossom x1
+A1: Santaclops x1
+A2: Box of Tricks x1
+A3-FF: None

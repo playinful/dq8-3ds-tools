@@ -1,0 +1,162 @@
+00: Void
+01: Ascantha Castle: Tunnel
+02: Castle Trodain: 2nd Floor
+03: Castle Trodain (Courtyard)
+04: Castle Trodain: 2nd Floor
+05: Castle Trodain: 2nd Floor
+06: Castle Trodain: 2nd Floor
+07: Waterfall Cave: Level 1 {Bridge}
+08: Waterfall Cave: Level 1/Level 2 {Cavern}
+09: Ruined Abbey
+0A: Ruined Abbey {Cavern}
+0B: Wishers' Peak {Outside}
+0C: Wishers' Peak {Interior Level 1}
+0D: Wishers' Peak {Interior Level 2}
+0E: Waterfall Cave: Level 3
+0F: Swordsman's Labyrinth
+10: Swordsman's Labyrinth {Altar}
+11: Mole Hole: Level 3 {Stage}
+12: Mole Hole
+13: Dragon Graveyard
+14: Dragon Graveyard: Doors of Judgement
+15: Royal Hunting Ground {Valley}
+16: Royal Hunting Ground {Hill}
+17: Pirate's Cove: Level 2/Level 3 {Hallway}
+18: Pirate's Cove: Level 3 {Room}
+19: Pirate's Cove: Level 3 {Treasure Room}
+1A: Herb Grotto: Level 2
+1B: Herb Grotto: Level 1/Level 3/Level 4
+1C: Pirate's Cove: Level 1
+1D: Heavenly Dais: Trial Grounds
+1E: Dragovian Path: Level 2 {Waterfall Area}
+1F: Dragovian Path {Cave}
+20: Dragovian Path: Level 3 {Outside}
+21: Ruined Abbey {Outside}
+22: Dragovian Path: Level 4 {Outside}
+23: Heavenly Dais: Level 1
+24: Heavenly Dais: Level 2
+25: Wooded Opening
+26: Northern Continent {Field}
+27: Northern Continent {Forest}
+28: Alexandria Region {Beach}
+29: Trodain [Unused Area]
+2A: Ocean
+2B: Kingdom of Trodain {Mesa}
+2C: Northern Continent {Road}
+2D: Kingdom of Trodain {Tunnel}
+2E: Field [Possibly Unused]
+2F: Southern Continent {Road}
+30: Southern Continent {Field}
+31: Southern Continent {Forest}
+32: Ascantha Region {Riverbank}
+33: Ascantha Region {Bridge}
+34: Pickham Region {Beach}
+35: Kingdom of Trodain {Mesa}
+36: Kingdom of Trodain {Mesa}
+37: Pickham Region {Poison Bog} [Possibly Unused]
+38: Pickham Region {Sand Area}
+39: Pickham Region {Field}
+3A: Pickham Region {Forest}
+3B: Tryan Gully Region {Field}
+3C: Tryan Gully Region {Forest}
+3D: Western Continent {Road}
+3E: Western Continent {Field}
+3F: Western Continent {Forest}
+40: Kingdom of Trodain {Mesa}
+41: Kingdom of Argonia {Road}
+42: Kingdom of Argonia {Field}
+43: Kingdom of Argonia {Forest}
+44: Kingdom of Trodain {Mesa}
+45: Kingdom of Trodain {Mesa}
+46: Kingdom of Trodain {Mesa}
+47: Kingdom of Argonia {Beach}
+48: Kingdom of Trodain {Mesa}
+49: Kingdom of Trodain {Mesa}
+4A: Kingdom of Trodain {Mesa}
+4B: Argonian Desert
+4C: Arcadia Region {Road}
+4D: Arcadia Region {Field}
+4E: Arcadia Region {Forest}
+4F: Blizzard Peaks
+50: Holy Isle of Neos
+51: Kingdom of Trodain {Mesa}
+52: Northwest Isle
+53: Isolated Plateau {Field}
+54: Isolated Plateau {Forest}
+55: Isolated Plateau {Poison Bog}
+56: World of Darkness {Field}
+57: World of Darkness {Forest}
+58: World of Darkness {Poison Bog}
+59: Savella Region {Road}
+5A: Savella Region {Field}
+5B: Uncharted Isle
+5C: Princess Minnie's Island
+5D: Alexandria
+5E: Pickham {Treasure Room}
+5F: Baccarat
+60: Arcadia
+61: Monster Arena
+62: Trolls' Maze
+63: Marta's Cottage {Inside} [Unused]
+64: Marta's Cottage {Outside}
+65: House?
+66: Lord High Priest's Residence
+67: Isolated Plateau {Field}
+68: Slime Hill
+69: High place on Northwest Isle [Possibly Unused]
+6A: Northwest Isle
+6B: Mountain Overlooking Desert
+6C: Hill on Argonia's Western Border
+6D: Egeus' Tablet
+6E: Trolls' Maze (Kitchen)
+6F: Ferry
+70: Tower of Alexandra: Level 4/Level 6
+71: Tower of Alexandra {Interior, Near Staircase}
+72: Tower of Alexandra {Outside}
+73: Tower of Alexandra {Roof}
+74: Rydon's Tower: Level 1-Level 9
+75: Rydon's Tower {Seesaw}
+76: Godbird's Eyrie {Inside}
+77: Tower of Alexandra: Level 1
+78: Godbird's Eyrie (Dark) {Inside}
+79: Godbird's Eyrie (Dark) {Summit}
+7A: Godbird's Eyrie (Dark) {Mountain Path}
+7B: Godbird's Eyrie {Summit}
+7C: Godbird's Eyrie {Mountain Path}
+7D: Rydon's Tower {Outside}
+7E: World of Darkless {Field}
+7F: Isolated Plateau {Field}
+80: Rydon's Tower: Level 10
+81: Dark Ruins: Level 1/Level 2/Basement Level 1
+82: Dark Ruins: Basement Level 2
+83: Dark Ruins: Basement Level 4
+84: Dark Ruins: Basement Level 4 {Dhoulmagus's Chamber}
+85: Dark Ruins: Basement Level 4 {Dhoulmagus's Chamber (Glowing Effect)}
+86: Dhoulmagus Heart Arena
+87: Sky
+88: Black Citadel {Throne Room}
+89: Black Citadel: Level 1 {Outer Area}
+8A: Black Citadel: Level 3/Level 2
+8B: Black Citadel: Level 1 {Inner Area}
+8C: Black Citadel: Level 4
+8D: Black Citadel: Level 5
+8E: Neos
+8F: Black Citadel {Fake Town, Loop 1 (No Statues)}
+90: Black Citadel {Fake Town, Loop 3}
+91: Black Citadel {Central Tower Balcony}
+92: Black Citadel {Courtyard}
+93: Black Citadel {Inside Home}
+94: Black Citadel {Atop Exterior Wall}
+95: Black Citadel {Fake Town, Loop 2}
+96: Black Citadel {Fake Town, Center} [Likely Unused]
+97: Black Citadel {Fake Town, Loop 1 (with Statues)} [Likely Unused]
+98: Void
+99: Void
+9A: Void
+9B: Altar of Wroth: Level 1
+9C: Altar of Wroth: Level 2
+9D: Altar of Wroth: Level 3
+9E: Altar of Wroth {Arena}
+9F: Memories Lane
+A0: Memories Lane {Final Room}
+A1-FF: Void

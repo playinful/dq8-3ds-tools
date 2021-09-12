@@ -1,0 +1,205 @@
+00: Nothing
+01: Strong Medicine
+02: Special Medicine
+03: Lesser Panacea
+04: Greater Panacea (Special Medicine * 3)
+05: Greater Panacea (Lesser Panacea + Rose-root + Rose-wort)
+06: Rose-root (Medicinal Herb * 3)
+07: Rose-root (Strong Medicine + Medicinal Herb)
+08: Rose-wort (Medicinal Herb + Medicinal Herb + Moonwort Bulb)
+09: Rose-wort (Strong Medicine + Moonwort Bulb)
+0A: Strong Antidote
+0B: Special Antidote (Medicinal Herb + Antidotal Herb + Antidotal Herb)
+0C: Special Antidote (Strong Antidote * 2)
+0D: Moon's Mercy
+0F: Mystifying Mixture (Medicinal Herb + Antidotal Herb + Moonwort Bulb)
+10: Mystifying Mixture (Holy Water + Wing of Bat + Cowbat)
+11: Thief's Key
+12: Elfin Elixir
+13: Timbrel of Tension
+14: Yggdrasil Dew
+15: Amor Seco Essence
+16: Chimaera Wing
+17: Holy Water
+18: Magic Water
+19: Sage's Stone
+1B: Premium Mould
+1E: Agility Ring
+1F: Meteorite Bracer
+20: Strength Ring
+21: Recovery Ring
+22: Goddess Ring
+23: Life Bracer
+25: Mighty Armlet
+28: Ruby of Protection
+29: Titan Belt
+2A: Scholar's Specs
+2B: Holy Talisman
+2C: Ring of Awakening
+2D: Full Moon Ring
+2F: Ring of Clarity
+30: Ring of Truth
+31: Ring of Immunity
+32: Catholicon Ring
+33: Skull Ring
+34: Sorcerer's Ring
+35: Elevating Shoes
+36: Copper Sword
+37: Uber Falcon Blade
+38: Dragon Slayer
+39: Zombie Slayer
+3A: Blizzard Blade
+3B: Uber Miracle Sword
+3C: Double-edged Sword
+3D: Uber Double-edge
+3E: Liquid Metal Sword
+3F: Rusty Old Sword
+40: Dragovian King Sword
+41: Fallen Angel Rapier
+42: Shamshir of Light
+43: Mercury's Rapier
+44: Assassin's Dagger
+45: Falcon Knife
+46: Imp Knife
+47: Iron Lance
+48: Holy Lance
+49: Long Spear
+4A: Sandstorm Spear
+4B: Demon Spear
+4C: Reinforced Boomerang
+4D: Metal Wing Boomerang
+4E: Razor Wing Boomerang
+4F: Stone Axe
+50: Iron Axe
+51: King Axe
+52: Moon Axe
+53: Bandit Axe
+54: Golden Axe
+55: Sledgehammer
+56: Uber War Hammer
+58: Megaton Hammer
+5B: Hell Scythe
+5C: Leather Whip
+5D: Snakeskin Whip
+5E: Dragontail Whip
+5F: Demon Whip
+60: Scourge Whip
+61: Magma Staff
+63: Staff of Antimagic
+64: Staff of Resurrection
+66: Hunter's Bow (Cypress Stick + Cypress Stick + Strength Ring)
+67: Hunter's Bow (Short Bow + Chain Whip)
+68: Cheiron's Bow
+69: Eros' Bow
+6A: Odin's Bow
+6B: Wayfarer's Clothes
+6C: Boxer Shorts
+6D: Leather Kilt (Boxer Shorts + Magic Beast Hide)
+6E: Leather Kilt (Leather Whip + Bandana)
+6F: Leather Dress
+70: Templar's Uniform
+71: Fur Poncho
+72: Magical Skirt
+73: Shimmering Dress
+74: Dark Robe
+76: Divine Bustier
+77: Leather Armour
+78: Scale Armour
+79: Chain Mail
+7A: Bronze Armour
+7B: Iron Cuirass
+7C: Silver Cuirass
+7D: Zombie Mail (Platinum Mail + Devil's Tail)
+7E: Platinum Mail
+7F: Dancer's Mail
+80: Dragon Mail
+81: Magic Armour
+82: Bandit Mail
+83: Spiked Armour
+84: Gigant Armour
+85: Mirror Armour
+87: Metal King Armour
+88: Robe of Serenity
+89: Angel's Robe
+8A: Sage's Robe
+8B: Crimson Robe
+8C: Princess's Robe
+8D: Leather Shield
+8E: Scale Shield
+8F: Bronze Shield
+90: Templar's Shield
+91: White Shield (Iron Shield + Silver Platter)
+92: White Shield (Light Shield + Fresh Milk + Fresh Milk)
+93: Magic Shield
+94: Dragon Shield
+96: Power Shield
+97: Silver Shield
+98: Saintess Shield
+99: Ruinous Shield
+9A: Thanatos' Shield
+9B: Goddess Shield
+9C: Metal King Shield
+9D: Pointy Hat
+9E: Feathered Cap
+9F: Turban
+A0: Stone Hardhat
+A1: Scholar's Cap
+A2: Silver Tiara
+A3: Bunny Ears
+A4: Fur Hood
+A5: Bronze Helmet
+A7: Thinking Cap
+A8: Raging Bull Helm
+A9: Phantom Mask
+AA: Hermes' Hat
+AB: Happy Hat
+AC: Hades' Helm
+AD: Mercury's Bandana
+AF: Skull Helm
+B0: Sun Crown
+B1: Mythril Helm
+B2: Golden Tiara
+B3: Plain Cheese (Fresh Milk + Rennet Powder)
+B4: Plain Cheese (Scorching Cheese + C-C-Cold Cheese)
+B6: Spicy Cheese
+B7: Super Spicy Cheese (Spicy Cheese + Red Moult + Red Mould)
+B8: Super Spicy Cheese (Spicy Cheese + Nook Grass)
+B9: Scorching Cheese
+BB: Cool Cheese
+BC: Chilly Cheese
+BD: Cold Cheese
+BE: C-C-Cold Cheese
+C4: Mild Cheese
+C5: Cured Cheese
+C6: Angel Cheese
+C7: Hard Cheese
+C8: Soft Cheese
+C9: Chunky Cheese
+CA: Highly-Strung Cheese
+CC: Holy Silver Rapier
+CD: Flametang Boomerang
+CE: Bunny Suit
+CF: Zombie Mail (Silver Mail + Zombiesbane)
+D0: Ice Shield
+D1: Flame Shield
+D2: Prayer Ring
+D3: Metal King Spear
+D4: Fire Claw
+D5: Cobra Claw
+D6: King Cobra Claw
+D7: Beast Talon
+D8: Dragonlord Claw
+DA: Peacock Fan
+DB: Stellar Fan
+DC: Lunar Fan
+DD: Solar Fan
+DF: Nitid Tutu
+E0: Hexlet's Skirt
+E1: Oriental Warrior Wear
+E3: Uber Sacred Armour
+E4: Big Bad Boss Shield
+E5: Dogsbody's Hood
+E6: Hexlet's Hat
+E7: Kunoichi Headband
+E8: Dogsbody's Vest
+E9: Erdrick's Sword

@@ -1,0 +1,240 @@
+20EB0.0: Rose-root (Strong Medicine + Medicinal Herb)
+20EB0.1: Rose-root (Medicinal Herb x 3)
+20EB0.2: Greater Panacea (Lesser Panacea + Rose-root + Rose-wort)
+20EB0.3: Greater Panacea (Special Medicine x 3)
+20EB0.4: Lesser Panacea
+20EB0.5: Special Medicine
+20EB0.6: Strong Medicine
+20EB0.7: N/A
+20EB1.0: Mystifying Mixture (Medicinal Herb + Antidotal Herb + Moonwort Bulb)
+20EB1.1: N/A
+20EB1.2: Moon's Mercy
+20EB1.3: Special Antidote (Strong Antidote x 2)
+20EB1.4: Special Antidote (Medicinal Herb + Antidotal Herb + Antidotal Herb)
+20EB1.5: Strong Antidote
+20EB1.6: Rose-wort (Strong Medicine + Moonwort Bulb)
+20EB1.7: Rose-wort (Medicinal Herb + Medicinal Herb + Moonwort Bulb)
+20EB2.0: Holy Water
+20EB2.1: Chimaera Wing
+20EB2.2: Amor Seco Essence
+20EB2.3: Yggdrasil Dew
+20EB2.4: Timbrel of Tension
+20EB2.5: Elfin Elixir
+20EB2.6: Thief's Key
+20EB2.7: Mystifying Mixture (Holy Water + Wing of Bat + Cowpat)
+20EB3.0: Meteorite Bracer
+20EB3.1: Agility Ring
+20EB3.2: N/A
+20EB3.3: N/A
+20EB3.4: Premium Mould
+20EB3.5: N/A
+20EB3.6: Sage's Stone
+20EB3.7: Magic Water
+20EB4.0: N/A
+20EB4.1: N/A
+20EB4.2: Mighty Armlet
+20EB4.3: N/A
+20EB4.4: Life Bracer
+20EB4.5: Goddess Ring
+20EB4.6: Recovery Ring
+20EB4.7: Strength Ring
+20EB5.0: Ring of Clarity
+20EB5.1: N/A
+20EB5.2: Full Moon Ring
+20EB5.3: Ring of Awakening
+20EB5.4: Holy Talisman
+20EB5.5: Scholar's Specs
+20EB5.6: Titan Belt
+20EB5.7: Ruby of Protection
+20EB6.0: Uber Falcon Blade
+20EB6.1: Copper Sword
+20EB6.2: Elevating Shoes
+20EB6.3: Sorcerer's Ring
+20EB6.4: Skull Ring
+20EB6.5: Catholicon Ring
+20EB6.6: Ring of Immunity
+20EB6.7: Ring of Truth
+20EB7.0: Rusty Old Sword
+20EB7.1: Liquid Metal Sword
+20EB7.2: Uber Double-edge
+20EB7.3: Double-edged Sword
+20EB7.4: Uber Miracle Sword
+20EB7.5: Blizzard Blade
+20EB7.6: Dragon Slayer
+20EB7.7: Zombie Slayer
+20EB8.0: Iron Lance
+20EB8.1: Imp Knife
+20EB8.2: Falcon Knife
+20EB8.3: Assassin's Dagger
+20EB8.4: Mercury's Rapier
+20EB8.5: Shamshir of Light
+20EB8.6: Fallen Angel Rapier
+20EB8.7: Dragovian King Sword
+20EB9.0: Stone Axe
+20EB9.1: Razor Wing Boomerang
+20EB9.2: Metal Wing Boomerang
+20EB9.3: Reinforced Boomerang
+20EB9.4: Demon Spear
+20EB9.5: Sandstorm Spear
+20EB9.6: Long Spear
+20EB9.7: Holy Lance
+20EBA.0: N/A
+20EBA.1: Uber War Hammer
+20EBA.2: Sledgehammer
+20EBA.3: Golden Axe
+20EBA.4: Bandit Axe
+20EBA.5: Moon Axe
+20EBA.6: King Axe
+20EBA.7: Iron Axe
+20EBB.0: Demon Whip
+20EBB.1: Dragontail Whip
+20EBB.2: Snakeskin Whip
+20EBB.3: Leather Whip
+20EBB.4: Hell Scythe
+20EBB.5: N/A
+20EBB.6: N/A
+20EBB.7: Megaton Hammer
+20EBC.0: Hunter's Bow (Short Bow + Chain Whip)
+20EBC.1: Hunter's Bow (Cypress Stick + Cypress Stick + Strength Ring)
+20EBC.2: N/A
+20EBC.3: Staff of Resurrection
+20EBC.4: Staff of Antimagic
+20EBC.5: N/A
+20EBC.6: Magma Staff
+20EBC.7: Scourge Whip
+20EBD.0: Leather Dress
+20EBD.1: Leather Kilt (Leather Whip + Bandana)
+20EBD.2: Leather Kilt (Boxer Shorts + Magic Beast Hide)
+20EBD.3: Boxer Shorts
+20EBD.4: Wayfarer's Clothes
+20EBD.5: Odin's Bow
+20EBD.6: Eros' Bow
+20EBD.7: Cheiron's Bow
+20EBE.0: Leather Armour
+20EBE.1: Divine Bustier
+20EBE.2: N/A
+20EBE.3: Dark Robe
+20EBE.4: Shimmering Dress
+20EBE.5: Magical Skirt
+20EBE.6: Fur Poncho
+20EBE.7: Templar's Uniform
+20EBF.0: Dancer's Mail
+20EBF.1: Platinum Mail
+20EBF.2: Zombie Mail (Platinum Mail + Devil's Tail)
+20EBF.3: Silver Cuirass
+20EBF.4: Iron Cuirass
+20EBF.5: Bronze Armour
+20EBF.6: Chain Mail
+20EBF.7: Scale Armour
+20EC0.0: Metal King Armour
+20EC0.1: N/A
+20EC0.2: Mirror Armour
+20EC0.3: Gigant Armour
+20EC0.4: Spiked Armour
+20EC0.5: Bandit Mail
+20EC0.6: Magic Armour
+20EC0.7: Dragon Mail
+20EC1.0: Bronze Shield
+20EC1.1: Scale Shield
+20EC1.2: Leather Shield
+20EC1.3: Princess's Robe
+20EC1.4: Crimson Robe
+20EC1.5: Sage's Robe
+20EC1.6: Angel's Robe
+20EC1.7: Robe of Serenity
+20EC2.0: Silver Shield
+20EC2.1: Power Shield
+20EC2.2: N/A
+20EC2.3: Dragon Shield
+20EC2.4: Magic Shield
+20EC2.5: White Shield (Light Shield + Fresh Milk + Fresh Milk)
+20EC2.6: White Shield (Iron Shield + Silver Platter)
+20EC2.7: Templar's Shield
+20EC3.0: Turban
+20EC3.1: Feathered Cap
+20EC3.2: Pointy Hat
+20EC3.3: Metal King Shield
+20EC3.4: Goddess Shield
+20EC3.5: Thanatos' Shield
+20EC3.6: Ruinous Shield
+20EC3.7: Saintess Shield
+20EC4.0: Thinking Cap
+20EC4.1: N/A
+20EC4.2: Bronze Helmet
+20EC4.3: Fur Hood
+20EC4.4: Bunny Ears
+20EC4.5: Silver Tiara
+20EC4.6: Scholar's Cap
+20EC4.7: Stone Hardhat
+20EC5.0: Skull Helm
+20EC5.1: N/A
+20EC5.2: Mercury's Bandana
+20EC5.3: Hades' Helm
+20EC5.4: Happy Hat
+20EC5.5: Hermes' Hat
+20EC5.6: Phantom Mask
+20EC5.7: Raging Bull Helm
+20EC6.0: Super Spicy Cheese (Spicy Cheese + Red Mould + Red Mould)
+20EC6.1: Spicy Cheese
+20EC6.2: N/A
+20EC6.3: Plain Cheese (Scorching Cheese + C-C-Cold Cheese)
+20EC6.4: Plain Cheese (Fresh Milk + Rennet Powder)
+20EC6.5: Golden Tiara
+20EC6.6: Mythril Helm
+20EC6.7: Sun Crown
+20EC7.0: N/A
+20EC7.1: C-C-Cold Cheese
+20EC7.2: Cold Cheese
+20EC7.3: Chilly Cheese
+20EC7.4: Cool Cheese
+20EC7.5: N/A
+20EC7.6: Scorching Cheese
+20EC7.7: Super Spicy Cheese (Spicy Cheese + Nook Grass)
+20EC8.0: Hard Cheese
+20EC8.1: Angel Cheese
+20EC8.2: Cured Cheese
+20EC8.3: Hard Cheese
+20EC8.4: N/A
+20EC8.5: N/A
+20EC8.6: N/A
+20EC8.7: N/A
+20EC9.0: Zombie Mail (Silver Mail + Zombiesbane)
+20EC9.1: Bunny Suit
+20EC9.2: Flametang Boomerang
+20EC9.3: Holy Silver Rapier
+20EC9.4: N/A
+20EC9.5: Highly-Strung Cheese
+20EC9.6: Chunky Cheese
+20EC9.7: Soft Cheese
+20ECA.0: Beast Talon
+20ECA.1: King Cobra Claw
+20ECA.2: Cobra Claw
+20ECA.3: Fire Claw
+20ECA.4: Metal King Spear
+20ECA.5: Prayer Ring
+20ECA.6: Flame Shield
+20ECA.7: Ice Shield
+20ECB.0: Nitid Tutu
+20ECB.1: N/A
+20ECB.2: Solar Fan
+20ECB.3: Lunar Fan
+20ECB.4: Stellar Fan
+20ECB.5: Peacock Fan
+20ECB.6: N/A
+20ECB.7: Dragonlord Claw
+20ECC.0: Kunoichi Headband
+20ECC.1: Hexlet's Hat
+20ECC.2: Dogsbody's Hood
+20ECC.3: Big Bad Boss Shield
+20ECC.4: Uber Sacred Armour
+20ECC.5: N/A
+20ECC.6: Oriental Warrior Wear
+20ECC.7: Hexlet's Skirt
+20ECD.0: N/A
+20ECD.1: N/A
+20ECD.2: N/A
+20ECD.3: N/A
+20ECD.4: N/A
+20ECD.5: N/A
+20ECD.6: Erdrick's Sword
+20ECD.7: Dogsbody's Vest

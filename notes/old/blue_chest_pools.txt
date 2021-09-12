@@ -1,0 +1,92 @@
+01:
+50 gold coins
+100 gold coins
+150 gold coins
+Amor seco essence
+Holy water
+Magic water
+Seed of wisdom
+Eau de monster
+
+02:
+100 gold coins
+200 gold coins
+300 gold coins
+Special medicine
+Mystifying mixture
+Magic water
+Seed of agility
+Eau de monster
+
+03:
+200 gold coins
+400 gold coins
+600 gold coins
+Special antidote
+Magic water
+Seed of strength
+Rockbomb shard
+Eau de monster
+
+04:
+300 gold coins
+600 gold coins
+900 gold coins
+Lesser panacea
+Magic water
+Seed of defence
+Seed of life
+Eau de monster
+
+05:
+400 gold coins
+800 gold coins
+1200 gold coins
+Greater panacea
+Magic water
+Seed of skill
+Seed of magic
+Eau de monster
+
+06:
+Seed of strength
+Seed of agility
+Seed of defence
+Seed of wisdom
+Seed of skill
+Seed of life
+Seed of magic
+
+07:
+Greater panacea
+Yggdrasil leaf
+Yggdrasil dew
+Elfin elixir
+
+08:
+Scorching cheese
+C-C-Cold cheese
+Cured cheese
+Angel cheese
+Hard cheese
+Soft cheese
+Chunky cheese
+Highly-strung cheese
+
+09:
+200 gold coins
+Special medicine
+Mystifying mixture
+Magic water
+Seed of agility
+Gold nugget
+Eau de monster
+
+0A:
+600 gold coins
+Lesser panacea
+Magic water
+Seed of defence
+Seed of life
+Gold nugget
+Eau de monster

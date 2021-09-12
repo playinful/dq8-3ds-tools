@@ -1,0 +1,324 @@
+0000: Farebury
+0001: Farebury {Inn}
+0002: Farebury {Church}
+0003: Farebury {Pub}
+0004: Farebury {Weapon Shop}
+0005: Farebury {Upper Southwest House}
+0006: Farebury {Lower House}
+0007: Farebury {Kalderasha's House}
+0008: Farebury {Upper Northeast House}
+0009: Farebury {Church: Belltower}
+000A: Farebury {Well}
+000B: Farebury {Master Rylus's House}
+000C: Alexandria
+000D: Alexandria {Inn}
+000E: Alexandria {South House}
+000F: Alexandria {Church}
+0010: Alexandria {East House}
+0011: Alexandria {Albert Manor}
+0012: Alexandria {Well}
+0013: Alexandria {Albert Manor: Jessica's Room (Mouse Hole)}
+0014: Port Prospect
+0015: Port Prospect {Inn}
+0016: Port Prospect {Church}
+0017: Port Prospect {Shipyard}
+0018: Port Prospect {Well}
+0019: Port Prospect {Ferry}
+001A: Pickham
+001B: Pickham {Inn}
+001C: Pickham {Church}
+001D: Pickham {North Pub}
+001E: Pickham {Weapon/Armour Shop}
+001F: Pickham {Item Shop}
+0020: Pickham {Brains' House}
+0021: Pickham {Fortune-Telling Parlour}
+0022: Pickham {South Pub}
+0023: Pickham {Storage Building}
+0024: Pickham {Rooftop Tent}
+0025: Pickham {Northwest House}
+0026: Pickham {West Apartments}
+0027: Pickham {East Tenement Building}
+0028: Pickham {Northeast House}
+0029: Pickham {Well}
+002A: Baccarat
+002B: Baccarat {Inn}
+002C: Baccarat {Church}
+002D: Baccarat {Restaurant}
+002E: Baccarat {Weapon/Armour Shop}
+002F: Baccarat {Southeast House}
+0030: Baccarat {Northeast House}
+0031: Baccarat {Guardhouse}
+0032: Baccarat {Casino}
+0033: Baccarat {Golding Manor: 1st Floor}
+0034: Baccarat {Golding Manor: 2nd Floor}
+0035: Baccarat {Pub}
+0036: Baccarat {Well}
+0037: Simpleton
+0038: Simpleton {Pub}
+0039: Simpleton {Inn}
+003A: Simpleton {Church}
+003B: Empycchu
+003C: Illuminated Reef {Cutscene}
+003D: Entering Isolated Plateau {Cutscene}
+003E: Empycchu {Item Shop}
+003F: Empycchu {East House}
+0040: Empycchu {Chief's Hut}
+0041: Empycchu {Southwest House}
+0042: Empycchu {Southeast House}
+0043: Arcadia
+0044: Arcadia {Inn}
+0045: Arcadia {Church}
+0046: Arcadia {Pub}
+0047: Arcadia {Weapon/Armour Shop}
+0048: Arcadia {Item Shop}
+0049: Arcadia {Mystery Mart}
+004A: Arcadia {Dominico's House}
+004B: Arcadia {Lowermost House}
+004C: Arcadia {Lower Southwest House}
+004D: Arcadia {Lower West House}
+004E: Arcadia {Lower Southeast House}
+004F: Arcadia {Lower Central House}
+0050: Arcadia {Kranbartle House}
+0051: Arcadia {Lower Northeast House}
+0052: Arcadia {Topmost House}
+0053: Orkutsk {Outside}
+0054: Orkutsk {Main Building}
+0055: Orkutsk {Mayor's House}
+0056: Orkutsk {Underground}
+0057: Tryan Gully
+0058: Tryan Gully {Sanctuary}
+0059: Tryan Gully {Church}
+005A: Tryan Gully {Main Building}
+005B: Tryan Gully {Vault}
+005C: Dragovian Sanctuary
+005D: Dragovian Sanctuary {Chen Mui's House}
+005E: Dragovian Sanctuary {City Hall}
+005F: Dragovian Sanctuary {Item Shop}
+0060: Dragovian Sanctuary {Southwest House}
+0061: Dragovian Sanctuary {Church}
+0062: Dark Empycchu
+0063: Dark Empycchu {Item Shop}
+0064: Dark Empycchu {East House}
+0065: Dark Empycchu {Chief's Hut}
+0066: Dark Empycchu {Southwest House}
+0067: Dark Empycchu {Southeast House}
+0068: Waterfall Cave: Level 1
+0069: Waterfall Cave: Level 3
+006A: Waterfall Cave: Level 2
+006B: Wishers' Peak {Outside}
+006C: Wishers' Peak {Level 1}
+006D: Wishers' Peak {Level 2}
+006E: Swordsman's Labyrinth
+006F: Royal Hunting Ground
+0070: Royal Hunting Ground {Cabin}
+0071: Ruined Abbey
+0072: Ruined Abbey {Outside}
+0073: Dragon Graveyard
+0074: Dragon Graveyard: Doors of Judgement
+0075: Pirate's Cove: Level 2-Level 4
+0076: Pirate's Cove: Level 1
+0077: Short Border Tunnel
+0078: Mole Hole
+0079: Herb Grotto: Level 1
+007A: Herb Grotto: Level 2
+007B: Herb Grotto: Level 3
+007C: Herb Grotto: Level 4
+007D: Herb Grotto: Level 4 {Mouse Hole}
+007E: Dragovian Path {Level 1}
+007F: Dragovian Path {Level 2}
+0080: Dragovian Path {Level 3}
+0081: Dragovian Path {Level 4}
+0082: Heavenly Dais {Level 1}
+0083: Heavenly Dais {Level 2}
+0084: Heavenly Dais {Trial Grounds}
+0085: Altar of Wroth: Level 1
+0086: Altar of Wroth: Basement Level 1
+0087: Altar of Wroth: Basement Level 2
+0088: Altar of Wroth {Stairway}
+0089: Altar of Wroth {Juggerwroth's Chamber}
+008A: Memories Lane {Room 1}
+008B: Memories Lane {Room 2}
+008C: Memories Lane {Room 3}
+008D: Memories Lane {Room 4}
+008E: Memories Lane {Shortcut Room 1}
+008F: Memories Lane {Shortcut Room 2}
+0090: Tower of Alexandra {Outside}
+0091: Tower of Alexandra: Level 1
+0092: Tower of Alexandra: Level 3-Level 6
+0093: Tower of Alexandra: Level 7
+0094: Tower of Alexandra {Southeast Tower}
+0095: Godbird's Eyrie {Outside}
+0096: Godbird's Eyrie: Level 1
+0097: Godbird's Eyrie: Level 2
+0098: Godbird's Eyrie: Level 3
+0099: Godbird's Eyrie: Level 4
+009A: Godbird's Eyrie: Level 5
+009B: Rydon's Tower {Outside}
+009C: Rydon's Tower {Inside}
+009D: Rydon's Tower [Partial]
+009E: Rydon's Tower [Partial]
+009F: Rydon's Tower: Level 10/Level 11
+00A0: Godbird's Eyrie (Dark) {Outside}
+00A1: Godbird's Eyrie (Dark): Level 1
+00A2: Godbird's Eyrie (Dark): Level 2
+00A3: Godbird's Eyrie (Dark): Level 3
+00A4: Godbird's Eyrie (Dark): Level 4
+00A5: Godbird's Eyrie (Dark): Level 5
+00A6: Castle Trodain
+00A7: Castle Trodain: 1st Floor
+00A8: Castle Trodain: 2nd Floor
+00A9: Castle Trodain: 3rd Floor
+00AA: Castle Trodain: 4th Floor
+00AB: Castle Trodain: East Wing
+00AC: Castle Trodain: Library
+00AD: Castle Trodain: 3rd Floor/4th Floor (Flashback)
+00AE: Castle Trodain: 3rd Floor (Flashback)
+00AF: Ascantha
+00B0: Ascantha {Inn}
+00B1: Ascantha {Church}
+00B2: Ascantha {Southwest House}
+00B3: Ascantha {Northwest House}
+00B4: Ascantha {Castle: 1st Floor}
+00B5: Ascantha {Castle: 3rd Floor}
+00B6: Ascantha {Castle: 4th Floor}
+00B7: Ascantha {Castle: 2nd Floor}
+00B8: Ascantha {Castle: Pavan's Chamber}
+00B9: Ascantha {Castle: Rooftop}
+00BA: Ascantha Castle: Basement
+00BB: Ascantha Castle: Tunnel
+00BC: Ascantha {Well}
+00BD: Argonia
+00BE: Argonia {Inn}
+00BF: Argonia {Church}
+00C0: Argonia {Southeast House}
+00C1: Argonia {Southwest House}
+00C2: Argonia {Chancellor's House}
+00C3: Argonia {Northwest House}
+00C4: Argonia {Bazaar Building}
+00C5: Argonia Castle: 1st Floor/2nd Floor
+00C6: Argonia Castle: North
+00C7: Argonia Castle: West Wing
+00C8: Argonia Castle: East Wing
+00C9: Argonia Castle {Balcony}
+00CA: Argonia Castle {Mouse Hole}
+00CB: Princess Minnie's Castle
+00CC: Castle Trodain {Epilogue}
+00CD: Castle Trodain: 1st Floor {Epilogue}
+00CE: Castle Trodain: 2nd Floor {Epilogue}
+00CF: Castle Trodain: 3rd Floor {Epilogue}
+00D0: Castle Trodain: 4th Floor {Epilogue}
+00D1: Castle Trodain: East Wing {Epilogue}
+00D2: Castle Trodain: Library {Epilogue}
+00D3: Neos
+00D4: Neos {Pulpit}
+00D5: Neos {Inn}
+00D6: Neos {Watering Hole}
+00D7: Neos {House}
+00D8: Neos {Storage Building}
+00D9: Neos {Barracks}
+00DA: Neos {Templar's Quarters}
+00DB: Neos {Watchtower}
+00DC: Neos {Watchtower: Observation Deck}
+00DD: Maella Abbey {Outside}
+00DE: Maella Abbey {Sanctuary}
+00DF: Maella Abbey {Abbot's Residence}
+00E0: Shed near Maella Abbey
+00E1: Maella Abbey {Basement}
+00E2: Maella Abbey {Rear Building}
+00E3: Maella Abbey {Courtyard}
+00E4: ?
+00E5: Dark Ruins {Outside}
+00E6: Dark Ruins: Level 1/Basement Level 1
+00E7: Dark Ruins: Basement Level 2
+00E8: Dark Ruins: Basement Level 3/Basement Level 4
+00E9: Dark Ruins: Basement Level 4 {Dhoulmagus's Chamber}
+00EA: Dark Ruins {Darkness}
+00EB: Savella Cathedral
+00EC: Savella Cathedral {Church}
+00ED: Savella Cathedral {Inn}
+00EE: Black Citadel {Outside}
+00EF: Black Citadel {Throne Room}
+00F0: Black Citadel {Fake Town}
+00F1: Black Citadel {Fake Town [Partial]}
+00F2: Black Citadel {Fake Town [Partial]}
+00F3: Black Citadel {Fake Town [Partial]}
+00F4: Black Citadel {Fake Town [Partial]}
+00F5: Black Citadel {Fake Town [Partial]}
+00F6: Black Citadel {Fake Town [Partial]}
+00F7: Sky {Cutscene}
+00F8: Black Citadel {Cutscene}
+00F9: Black Citadel {Tower}
+00FA: Black Citadel {Fake Town (Treasure Chest Area)}
+00FB: Neos {Destroyed}
+00FC: Peregrin Quay
+00FD: Peregrin Quay {Inn}
+00FE: Peregrin Quay {Roof}
+00FF: Ferry {Below Deck}
+0100: Emma's House
+0101: Riverside Chapel
+0102: Wishers' Peak {Summit}
+0103: Moonshadow Land
+0104: Moonshadow Land {Ishmahri's Chamber}
+0105: Red's Den {Outside}
+0106: Red's Den {Inside}
+0107: Red's Den {Stable}
+0108: Peddler's Tent
+0109: Seer's Retreat
+010A: Mystical Spring
+010B: Ferry {at Sea}
+010C: Ferry {at Sea; Below Deck}
+010D: ?
+010E: Cutscene: The Hero meets Yangus
+010F: Hilltop Hut
+0110: Hilltop Hut {Well}
+0111: Marta's Cottage {Outside}
+0112: Marta's Cottage {Inside}
+0113: Lord High Priest's Residence {Outside}
+0114: Lord High Priest's Residence {Inside}
+0115: Shack on top of Waterfall
+0116: Purgatory Island
+0117: Purgatory Island {Inside}
+0118: Egeus' Tablet
+0119: Mysterious Altar
+011A: Chateau Felix
+011B: Chateau Felix {Inside}
+011C: Seaview Church
+011D: Church to the west of Trodain
+011E: Desert Chapel
+011F: Chapel of Autumn
+0120: Lakeside Cabin
+0121: High place South of Empyrea
+0122: Howlwind Hill
+0123: Monster Arena {Ground Floor}
+0124: Monster Arena {Basement}
+0125: High place on Northwest Isle
+0126: Hill on Argonia's Western Border
+0127: Mountain Overlooking Desert
+0128: High place Near Neos
+0129: ?
+012A: Desert {Well}
+012B: Trolls' Maze
+012C: Le Club Puff-Puff
+012D: Wooded Opening {Opening Scene}
+012E: Wooded Opening {Munchie's Trail}
+012F: Northern Continent
+0130: Southern Continent
+0131: Pickham Region
+0132: Baccarat Region
+0133: Kingdom of Argonia
+0134: Desert
+0135: Arcadia Region
+0136: Blizzard Peaks
+0137: Holy Isle of Neos
+0138: Northwest Isle
+0139: Isolated Plateau
+013A: Savella Area
+013B: Untrodden Groves
+013C: World of Darkness
+013D: Land of the Moles
+013E: Argonia Beach
+013F: Uncharted Isle
+0140: Princess Minnie's Island
+0141: Ocean
+0142: Sky
+0143: Unknown Area (Mouse Hole)

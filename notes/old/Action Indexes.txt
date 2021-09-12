@@ -1,0 +1,853 @@
+0000: Nothing
+0001: Attack
+0002: Attack
+0003: Attack but it softlocks the game
+0004: See 0003
+0005-0006: See 0003
+0007: Frizz
+0008: Frizzle
+0009: Kafrizzle
+000A: Sizz
+000B: Sizzle
+000C: Kasizzle
+000D: Bang
+000E: Boom
+000F: Kaboom
+0010: Woosh
+0011: Swoosh
+0012: Kaswoosh
+0013: Crack
+0014: Crackle
+0015: Kacrackle
+0016: Zap
+0017: Kazap
+0018: Whack
+0019: Whack
+001A: Thwack
+001B: Thwack
+001C: Kathwack
+001D: Kathwack
+001E: Pearly Gates
+001F: Magic Burst
+0020: Magic Burst
+0021: Kamikazee
+0022: Kamikazee
+0023: Snooze
+0024: Snooze
+0025: Kasnooze
+0026: Kasnooze
+0027: Dazzle
+0028: Dazzle
+0029: Fizzle
+002A: Fizzle
+002B: Fuddle
+002C: Fuddle
+002D: Kafuddle
+002E: Kafuddle
+002F: Drain Magic
+0030: Bounce
+0031: Sap
+0032: Sap
+0033: Kasap
+0034: Kasap
+0035: Buff
+0036: Buff
+0037: Buff
+0038: Kabuff
+0039: Acceleratle
+003A: Deceleratle
+003B: Deceleratle
+003C: Insulatle
+003D: Oomph
+003E: Heal
+003F: Heal
+0040: Heal
+0041: Midheal
+0042: Midheal
+0043: Midheal
+0044: Fullheal
+0045: Fullheal
+0046: Fullheal
+0047: Multiheal
+0048: Omniheal
+0049: Attack
+004A: Attack
+004B: Attack
+004C: Squelch
+004D: Tingle
+004E: Magic Barrier
+004F: Zoom
+0050: Evac
+0051: Blasto
+0052: Holy Protection
+0053: Safe Passage
+0054: Chest Checker
+0055: Padfoot
+0056: Share Magic
+0057: Ban Dance
+0058: Divine Intervention
+0059: Pearly Gates
+005A: Attack
+005B: CONFUSION ATTACK {Attack Ally}
+005C: MEDITATION
+005D: Defending Champion
+005E: Weird Dance 1
+005F: Weird Dance
+0060: game crash
+0061: Sultry Dance
+0062: Death Dance
+0063: Hustle Dance
+0064: Attack
+0065: Fuddle Dance
+0066: The Last Dance
+0067: Underpants Dance
+0068: Underpants Dance
+0069: game crash
+006A: game crash
+006B: game crash
+006C: game crash
+006D: game crash
+006E: Stir up a cloud of sand
+006F: See 006E
+0070: game crash
+0071: War Cry
+0072: game crash
+0073: Puff-Puff
+0074: Puff-Puff
+0075: game crash
+0076: call forth terrible lightning
+0077: Wind Sickles
+0078: Thin Air
+0079: game crash
+007A: game crash
+007B-0080: game crash
+0081: Stone's Throw
+0082: Boulder Toss
+0083: Lightning Storm
+0084: Body Slam
+0085: go for the vitals
+0086: Multifists
+0087: Hatchet Man
+0088: Falcon Slash
+0089: Harvest Moon?
+008A: Dragon Slash
+008B: Metal Slash
+008C: Thunder Slash
+008D: Flame Slash
+008E: Vacuum Slash
+008F: Kacrackle Slash
+0090: Steal Sickle
+0091: Knuckle Sandwich
+0092: Gigaslash
+0093: Golden Oldies
+0094: Attack but the camera is angled really high up
+0095: Attack
+0096: Crit attack with high camera angle
+0097: Attack
+0098: Attack
+0099: Attack
+009A: attack
+009B: attack
+009C: Blown away
+009D: Open purple eyes wide and glare
+009E: game crash
+009F: game crash
+00A0: Grab and slam to the ground
+00A1: game crash
+00A2: ?
+00A3: thrust with the force of a hurricane
+00A4: Leg Sweep
+00A5: ?
+00A6: Call team
+00A7: Multishot
+00A8: Needle Shot
+00A9: Parallax
+00AA: Heart Breaker
+00AB: Axes of Evil
+00AC: Big Banga
+00AD: Miracle Slash
+00AE: mow down everything in path
+00AF: Crosscutter Throw
+00B0: Power Throw
+00B1: Starburst Throw
+00B2: Firebird Throw
+00B3: Gigathrow
+00B4: Helm Splitter
+00B5: Typhoeus' Maul
+00B6: Monster Masher
+00B7: Penny Pincher
+00B8: Devil Crusher
+00B9: Grim Reaper
+00BA: Assassin's Stab
+00BB: Sudden Death
+00BC: Toxic Sword
+00BD: Whiplash
+00BE: Twin Dragon Lash
+00BF: Serpent's Bite
+00C0: Lashings of Love
+00C1: Lady's Thong
+00C2: Shining Shot
+00C3: Sandman's Arrow
+00C4: Seraph's Arrow
+00C5: Caduceus
+00C6: Blow Kiss
+00C7: Hip Drop
+00C8: Sexy Beam
+00C9: Pink Typhoon
+00CA: Miracle Moon
+00CB: Charming Look
+00CC: Multithrust
+00CD: Gigaflash
+00CE: Tongue Lashing
+00CF: Silly Song
+00D0: Counting Sheep
+00D1: game crash
+00D2: Attack
+00D3: Rhapthorne ball
+00D4: swing sword in a huge arc
+00D5: Throw debris
+00D6: ultra high speed combo attack
+00D7: Satirical Song
+00D8: Attack from the air
+00D9: Draw a crest in the air
+00DA: Eyes roll like dice
+00DB: Eyes roll like dice
+00DC: Eyes roll like dice
+00DD: Eyes roll like dice
+00DE: Transform into a blade and attack
+00DF: Thrust sword into ground
+00E0: Powerful laser beam
+00E1: Sharp feathers fly like arrows
+00E2: Spin viciously and attack
+00E3: Spin viciously and attack
+00E4: Shake the ground in fury
+00E5: Suddenly drop down from above
+00E6: Smash party with arm
+00E7: Raise weapon and call forth the anger of the gods
+00E8: Fire a flurry of poison needles
+00E9: Attack and defend simultaneously
+00EA: Attack
+00EB: Flex muscles like a macho man
+00EC: Dance in a disturbing way
+00ED: Lame Story
+00EE: Exciting Tale
+00EF: Funny Story
+00F0: Ferocious battle cry
+00F1: Dragovian Seal
+00F2: Cursed Song
+00F3: Cursed Tune
+00F4: Cursed Mist
+00F5: Attack
+00F6: Lower horned head and charge
+00F7: Hurl collar
+00F8: Throw cursed orbs of pure hatred
+00F9: Point
+00FA: Unleash thorns
+00FB: Performance begins
+00FC: Grab some snow and fling it into the air
+00FD: game crash
+00FE: Chimaera puppet spews fire
+00FF: Play a melody of death (with band)
+0100: Empty jar all in one gulp
+0101: Attack
+0102: Attack
+0103: Sarcastic Snigger
+0104: Love Story
+0105: Hack away like a demon
+0106: Stainless Steal Sickle
+0107: Big Banga
+0108: Super Throw
+0109: Mind Breaker
+010A: Gold Rush
+010B: Grimmer Reaper
+010C: Toxic Dagger
+010D: Queen's Thong
+010E: Needle Rain
+010F: Cherub's Arrow
+0110: Angel Eyes
+0111: Chilling Chuckle
+0112: Carefully aimed thrust booms like thunder
+0113: Carefully aimed thrust flashes like lightning
+0114: Gigagash
+0115: Dragon Soul
+0116: Thousands of whips extend from the staff
+0117: Use medicinal herb
+0118: Try to use .
+0119: Use !
+011A: Use !
+011B: But nothing happens!
+011C: softlock
+011D: Try to use . (But it doesn't seem necessary at the moment)
+011E: softlock
+011F: softlock
+0120: softlock
+0121: Sprinkle holy water (twice?)
+0122: softlock
+0123: softlock
+0124: Use ! (seed of wisdom)
+0125: Use ! (seed of strength)
+0126: Use ! (seed of agility)
+0127: Use ! (seed of resilience)
+0128: Use ! (Seed of life)
+0129: Use ! (Seed of magic)
+012A: softlock
+012B: Wield dream blade
+012C: Wield Dragovian sword
+012D: Wield Dragovian king sword
+012E: Wield icicle dirk
+012F: Wield wizard's staff
+0130: Wield lightning staff
+0131: Wield staff of divine wrath
+0132: Wield magma staff
+0133: Wield staff of antimagic
+0134: Wield rune staff
+0135: Attack
+0136: Wield Cheiron's bow
+0137: Wield power shield
+0138: Wield big boss shield
+0139: softlock
+013A: Put on  and pray
+013B: Try to use full party item but it doesn't seem necessary at the moment
+013C: Try to use . But nothing happens!
+013D: Try to use . But nothing happens!
+013E: Try to use . But nothing happens!
+013F: Try to use . But nothing happens!
+0140: Try to use . But nothing happens!
+0141: Try to use . But nothing happens!
+0142: Try to use . But nothing happens!
+0143: Try to use . But nothing happens!
+0144: Try to use . But nothing happens!
+0145: Use . (confusion)
+0146: Try to use full party item but it doesn't seem necessary at the moment
+0147: Try to use . But nothing happens!
+0148: But nothing happens!
+0149: But nothing happens!
+014A: Use ! (Boom)
+014B: Use ! (Multiheal)
+014C: Use ! (softlock)
+014D: Use ! (Timbrel of Tension)
+014E: Munchie eats !
+014F: Munchie eats !
+0150: Munchie eats !
+0151: Munchie eats !
+0152: Munchie eats !
+0153: Munchie eats !
+0154: Munchie eats !
+0155: Munchie eats !
+0156: Munchie eats !
+0157: Munchie eats !
+0158: Attack
+0159: Munchie eats !
+015A: Munchie eats !
+015B: Munchie eats !
+015C: Munchie eats !
+015D: softlock
+015E: softlock
+015F: softlock
+0160: Wield sandstorm spear
+0161: Say a prayer to the Godbird Sceptre
+0162: softlock
+0163: softlock
+0164: softlock
+0165: softlock
+0166: softlock
+0167: softlock
+0168: softlock
+0169: softlock
+016A: softlock
+016B: softlock
+016C: raise  into the air
+016D: softlock
+016E: softlock
+016F: softlock
+0170: softlock
+0171: softlock
+0172: softlock
+0173: softlock
+0174: softlock
+0175: softlock
+0176: softlock
+0177: softlock
+0178: softlock
+0179: softlock
+017A: softlock
+017B: softlock
+017C: softlock
+017D: softlock
+017E: softlock
+017F: Try to use . But nothing happens!
+0180: softlock
+0181: softlock
+0182: Party Flee
+0183: Flee
+0184: Flee
+0185: Someone calls from somewhere
+0186: softlock
+0187: softlock
+0188: Be envenomated
+0189: softlock
+018A: Defend
+018B: Defend
+018C: Intimidate
+018D: Party returns to battle
+018E: softlock
+018F: Enthralled by fine form
+0190: Flee due to confusion
+0191: Confused, and has no idea what to do
+0192: Paralysis from confusion
+0193: Confused and attacks but is paralyzed
+0194: Call for backup while confused
+0195: Flee
+0196: Psyche Up (Cannot Get 100% Tension)
+0197: Psyche Up (Guaranteed 100% Tension)
+0198: Instant 50 Tension
+0199: Instant 100 Tension
+019A: Psyche Up
+019B: Try to use . But nothing happens!
+019C: ^
+019D: Nothing
+019E: softlock
+019F: softlock
+01A0: softlock
+01A1: softlock
+01A2: softlock
+01A3: Call same monster for backup
+01A4: Call same monster for backup recursively
+01A5: Call for backup
+01A6: Start to divide into two
+01A7: Dhoulmagus laughs confidently and opens both hands
+01A8: Call jargon for backup
+01A9: Call healslime for backup
+01AA: Call cureslime for backup
+01AB: Call dark Condor for backup
+01AC: Eyes roll like dice (a six)
+01AD: Call stone guardian for backup
+01AE: Call for backup (fail)
+01AF: Call for backup (fail)
+01B0: Call for backup (fail)
+01B1: Call for backup (fail)
+01B2: ^
+01B3: ^
+01B4: Rip open the fabric of space
+01B5: Sing a song of seaweed
+01B6: Sing a song of seaweed
+01B7: Call soul mole for backup
+01B8: Call hell's gatekeeper for backup
+01B9: Cackle insanely and launch an attack
+01BA: Puff up and smother
+01BB: Grab hold of
+01BC: Draw bow and let an arrow fly
+01BD: Slash with claws
+01BE: Bite with needle sharp fangs
+01BF: Slash viciously
+01C0: Launch a flying attack
+01C1: Hip Drop
+01C2: Body Slam
+01C3: Stomp with enormous foot
+01C4: Spin vicious claws
+01C5: Slime Spank
+01C6: Attack
+01C7: Punch with slime puppet
+01C8: Punch with golem puppet
+01C9: Leap into the air and attack
+01CA: Swing weapon about furiously
+01CB: Assess the situation
+01CC: Just stare blankly into space
+01CD: Have no idea what to do
+01CE: grin maliciously
+01CF: laugh flippantly
+01D0: Calmly wash face
+01D1: play around
+01D2: rub forelegs together
+01D3: cannot make up mind
+01D4: have argument with self
+01D5: be intoxicated by the sound of own voice
+01D6: Burst out in defiant laughter
+01D7: too busy doodling to attack
+01D8: laugh loudly
+01D9: lick weapon and laugh
+01DA: glare fiercely
+01DB: assess the situation with a big grin
+01DC: laugh confidently
+01DD: look around confidently
+01DE: Attack
+01DF: Dhoulmagus AI
+00E0: Dhoulmagus AI
+01E1: Dhoulmagus AI
+01E2: Dhoulmagus Phase 2 AI
+01E3: Dhoulmagus Phase 2 AI
+01E4: Evil Jessica AI
+01E5: Evil Jessica AI
+01E6: Evil Sir Leopold AI
+01E7: Evil Sir Leopold AI
+01E8: Marcello AI
+01E9: Marcello AI
+01EA: Rhapthorne Phase 1 AI
+01EB: Rhapthorne Phase 1 AI
+01EC: Rhapthorne Phase 2 AI
+01ED: Rhapthorne Phase 2 AI
+01EE: Rhapthorne Phase 2 AI
+01EF: Rhapthorne Phase 2 AI
+01F0: Lord of the Dragovians (Dragon) AI
+01F1: Lord of the Dragovians (Dragon) AI
+01F2: Lord of the Dragovians (Humanoid) AI
+01F3: ^
+01F4: Vermillion dragon AI
+01F5: ^
+01F6: Attack
+01F7: ^
+01F8: ^
+01F9: get serious
+01FA: Attack
+01FB: ^
+01FC: ^
+01FD: ^
+01FE: ^
+01FF: Rhapthorne Phase 2 AI (Invincible)
+0200: ^
+0201: Emerald dragon AI
+0202: ^
+0203: ^
+0204: Silver dragon AI
+0205: ^
+0206: ^
+0207: Golden dragon AI
+0208: ^
+0209: ^
+020A: Darksteel dragon AI
+020B: ^
+020C: ^
+020D: Divine dragon AI
+020E: ^
+020F: ^
+0210: Ultimate dragon AI
+0211: ^
+0212: ^
+0213: Triple Swords
+0214: Jolly Jousters
+0215: Omniheal (Deathmove)
+0216: Riders' Carnival
+0217: Metal Panic
+0218: Tension Boost
+0219: Good as Gold
+021A: Zingslinger
+021B: The Dirge
+021C: Maximaster
+021D: softlock
+021E: Big Bang
+021F: Magic Burst (deathmove)
+0220: ^
+0221: ^
+0222: ^
+0223: Typhoeus' Maul (deathmove)
+0224: Mind Breaker (deathmove)
+0225: Merge into Ultrus
+0226: Merge into Gracky
+0227: Stream Killer Attack
+0228: Sapper Slapper
+0229: Love Typhoon
+022A: Slime Spank (deathmove)
+022B: merge into Mazin
+022C: Harrowing Arrow
+022D: Elemental Storm
+022E: Multiheal (deathmove)
+022F: Nothing
+0230: Nothing
+0231: Nothing
+0232: softlock
+0233: ^
+0234: ^
+0235: Flower Shower
+0236: Water Slaughterer
+0237: Fan Dango
+0238: Dance of Life
+0239: Butterfly Bop
+023A: Hypnowhip
+023B: Lashings of Lashings
+023C: Twin Tan
+023D: Whip Whack
+023E: Miracle Cleavage
+023F: Blade Cascade
+0240: Dosh Toss
+0241: Fire in the 'Ole
+0242: Propeller Blades
+0243: Can Opener
+0244: Hardclaws
+0245: Rake 'n' Break
+0246: Hand of God
+0247: Shattershield
+0248: POWER Pound
+0249: swing a punch with all might
+024A: Feel the Beat
+024B: Ooze Bruiser
+024C: Metal Mower
+024D: Swing Both Ways
+024E: PASSION Plunge
+024F: Pit of Fire
+0250: Arena of Flames
+0251: Pit Stop
+0252: GRANDE GUSTO
+0253: Nothing
+0254: softlock
+0255: Suddenly attack
+0256: be stunned and unable to figure out what to do
+0257: Not be impressed
+0258: Be paralysed and unable to move
+0259: Be asleep
+025A: Remain entwined by thorny vines and unable to move
+025B: Be absolutely enthralled
+025C: Be dancing uncontrollably
+025D: Be frozen with fear
+025E: Shiver in revulsion
+025F: Double over laughing
+0260: Be cursed and unable to move
+0261: Be completely enthralled
+0262: Still can't stand up
+0263: Be enveloped by the Dragovian Seal and cannot move
+0264: Be knocked off one's feet
+0265: Remain ensnared by a collar and cannot move
+0266: Be no longer paralysed
+0267: Wake up
+0268: Come to one's senses
+0269: Dazzle wears off
+026A: Eyes are back to normal
+026B: Oomph goes
+026C: Insulatle wears off
+026D: The effect of one's Bounce wears off
+026E: Dancing is no longer interrupted
+026F: The effect of one's Ban Dance wears off
+0270: One's magic is no longer Fizzled
+0271: One's defence returns to normal
+0272: One's Flamewall disappears
+0273: One's Icewall disappears
+0274: Party Flee (fail)
+0275: The party cannot run away
+0276: One's magic barrier disappears
+0277: The strange glow around one fades away
+0278: The effect of one's Divine Intervention wears off
+0279: softlock
+027A: ^
+027B: Intensso
+027C: Die
+027D: Call forth terrible lightning
+027E: Focus all one's energy into one's fist and let fly with a prize-winning punch
+027F: Passive heal?
+0280: Passive MP recovery?
+0281: The party's reserve members spring into action
+0282: Summon a great sage
+0283: ^
+0284-0288: ^
+0289: The prayers are not strong enough
+028A: Magic mirror absorbs Gigaflash
+028B: Cast ZING FAILS
+028C: Cast ZING FAILS (ALREADY ALIVE)
+028D: ^
+028E: STAFF OF RESURRECTION FAILS
+028F: STAFF OF RESURRECTION FAILS (ALREADY ALIVE)
+0290: Hurl a huge boulder
+0291: Performance begins
+0292: Shake the ground in fury
+0293: Thousands of whips extend from one's staff
+0294: Sharp feathers fly like arrows
+0295: Lure with a bewitching pose
+0296: Magic Burst
+0297: Fizzle
+0298: Kafrizzle
+0299: Kaboom
+029A: Focus all one's energy into one's sword and deliver a critical hit
+029B: Unleash a hurricane from hell
+029C: Thrust sword hard into the ground
+029D: Belch scorching flames
+029E: Call for backup fail
+029F: Call for backup
+02A0: Rip open the fabric of space
+02A1: ^
+02A2: Juggerwroth Phase 2 AI
+02A3: ^
+02A4: ^
+02A5: Dhoulmagus in Mem. Phase 1 AI
+02A6: ^
+02A7: ^
+02A8: Dhoulmagus in Mem. Phase 2 AI
+02A9: ^
+02AA: ^
+02AB: Evil Jessica in Mem. AI
+02AC: ^
+02AD: Sir Leopold in Mem. AI
+02AE: ^
+02AF: Marcello in Memoriam AI
+02B0: ^
+02B1: Estark AI
+02B2: ^
+02B3: ^
+02B4: ^
+02B5: Death Dance
+02B6: Monster Mia (sabrecat)
+02B7: Monster Mia (Mazin)
+02B8: Monster Mia (slime)
+02B9: Magic has been neutralized
+02BA: ^
+02BB: Insufficient MP
+02BC: But the dance is interrupted
+02BD: Return to life
+02BE: Remain lifeless
+02BF: ENEMY YGGDRASIL LEAF FAILS
+02C0: DARK MACARBOUR LEAF FAILS
+02C1: Return to life
+02C2: Return to life
+02C3: Remain lifeless
+02C4: Recover HP
+02C5: KERPLUNK SUCCEEDS (ENEMY)
+02C6: KERPLUNK FAILS (ENEMY)
+02C7: Nothing
+02C8: Crippling Kaboom
+02C9: Bolt of Blight
+02CA: Hellfire Hurricane
+02CB: Heavenly Justice
+02CC: Super Sweet Breath
+02CD: Merge into Guaca Mole
+02CE: Take damage
+02CF: Reach a state of super high tension!!!
+02D0: Reach a state of high tension!
+02D1: A holy light illuminates [one's group]
+02D2: A holy light illuminates [all combatants on one's side of the field]
+02D3: Decrease all opponents' defence
+02D4: Opponent takes damage and their defence decreases
+02D5: Good as Gold hit effect
+02D6: Insulatle effect
+02D7: Magic Barrier effect
+02D8: All one's side of the field's defence decreases to 0
+02D9: game crash
+02DA: Psyche up animation
+02DB: Try to use . But nothing happens!
+02DC: ^
+02DD: Story fails on party member
+02DE: ^
+02DF: ^
+02E0: ^
+02E1-01E2: ^
+02E3: game crash
+02E4: softlock
+02E5: Launch a quadruple-slicing sword attack
+02E6: softlock
+02E7: softlock
+02E8: softlock
+02E9: softlock
+02EA: softlock
+02EB: softlock
+02EC: softlock
+02ED: softlock
+02EE: softlock
+02EF: softlock
+02F0: softlock
+02F1: softlock
+02F2: Psyche Up
+02F3: tension drop
+02F4: ^
+02F5: game crash
+02F6: softlock
+02F7: ^
+02F8: Return to life
+02F9: Nothing
+02FA: Nothing
+02FB: Use ! (Super seed of wisdom?)
+02FC: Use ! (Super seed of strength?)
+02FD: Use ! (Super seed of agility?)
+02FE: Use ! (Super seed of resilience?)
+02FF: Use ! (Super seed of life?)
+0300: Use ! (Super seed of magic?)
+0301: Wield an Erdrick's sword
+0302: Wield a bad axe
+0303: Wield a fire claw
+0304: Wield a big bad boss shield
+0305: Go on one's merry way
+0306: Nothing
+0307: ^
+0308: Frizz effect
+0309: Frizzle effect
+030A: Kafrizzle effect
+030B: Sizz effect (1 target)
+030C: Sizzle effect (1 target)
+030D: Kasizzle effect (1 target)
+030E: Bang effect (1 target)
+030F: Boom effect (1 target)
+0310: Kaboom effect (1 target)
+0311: Woosh effect (1 target)
+0312: Swoosh effect (1 target)
+0313: Kaswoosh effect (1 target)
+0314: Crack effect (1 target)
+0315: Crackle effect (1 target)
+0316: Kacrackle effect (1 target)
+0317: Zap effect (1 target)
+0318: Kazap effect (1 target)
+0319: Whack effect
+031A: Thwack(?) effect (1 target)
+031B: Kathwack(?) effect (1 target)
+031C: ^
+031D: ^
+031E: ^
+031F: Kamikazee effect (self-targeting on enemy)
+0320: ^
+0321: Snooze effect (1 target)
+0322: Kasnooze effect (1 target)
+0323: ^
+0324: ^
+0325: Dazzle effect (1 target)
+0326: ^
+0327: Fizzle effect (1 target)
+0328: ^
+0329: Fuddle effect (1 target)
+032A: ^
+032B: ^
+032C: ^
+032D: Drain Magic effect (1 target)
+032E: Sap effect (1 target)
+032F: ^
+0330: Kasap effect (1 target)
+0331: ^
+0332: ^
+0333: ^
+0334: softlock
+0335: ^
+0336: Reflect healing spell?
+0337: Ban Dance effect (1 target)
+0338: Divine Intervention effect (1 target)
+0339: Mow down everything in one's path
+033A: But nothing happens!
+033B: Party returns to battle
+033C: Attack
+033D: Sapper Slapper
+033E: Some animation?
+033F: But nothing happens!
+0340: softlock
+0341: ^
+0342: But it doesn't work on [target]
+0343: ^
+0344: game crash
+0345: softlock
+0346: Share Magic animation
+0347: softlock
+0348: Try to use . But it doesn't seem necessary at the moment
+0349: Recover MP
+034A: softlock
+034B: ^
+034C: ^
+034D: ^
+034E: ^
+034F: ^
+0350: ^
+0351: Try to use . But it doesn't seem necessary at the moment
+0352: Flee and drop a treasure chest
+0353: Tension drop
+0354: ^
+0355: Gigaflash effect (1 target)
+0356: Die of exhaustion
+0357: DANCE OF LIFE FAILED (ON LIVE MEMBER)
+0358: Fizzle effect (1 target)
+0359: Kafrizzle effect
+035A: Kaboom effect (1 target)
+035B: Die
+035C: Raise one's weapon and call forth the anger of the gods
+035D: Slash with one's claws
+035E: War Cry
+035F: Make a devastating punch with a hulking-great fist

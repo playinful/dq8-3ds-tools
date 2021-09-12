@@ -1,0 +1,295 @@
+4: player/c005a {King Trode}
+5: player/c006a {Medea (Horse)}
+6: player/c007a {Munchie}
+7: player/c006aw {Carriage}
+8: npc/ap001 (?) {Kalderasha}
+9: npc/ap002 {Valentina}
+10: npc/bp001 {Bangerz}
+11: npc/bp002 {Mash}
+12: npc/bp004 {Alistair}
+13: npc/bp005 {Rosalind}
+14: npc/bp007 {Lorenzo}
+15: npc/bp006 {Dhoulmagus}
+16: npc/cp001 {Marcello}
+17: npc/cp002 {Abbot Francisco}
+18: npc/p039a
+19: npc/p034a
+20: npc/p022a
+21: npc/p023a
+22: npc/p027a
+23: npc/p023a
+24: npc/p033a
+25: npc/p010a
+26: npc/p011a
+27: npc/p012a
+28: npc/p014a
+29: npc/p013a
+30: npc/p015a
+31: npc/p016a
+32: npc/p017a
+33: npc/p018a
+34: npc/p019a
+35: npc/p020a
+36: ?
+37: npc/a005a
+38: npc/dqtoruneko {Torneko (Unused?)}
+39: npc/m024 {Slime}
+40: npc/p026a
+41: npc/p021a
+42: npc/dp001 {King Pavan}
+43: npc/dp001m {King Pavan (Mourning)}
+44: npc/dp003 {Emma}
+45: npc/dp003m {Emma (Mourning)}
+46: npc/dp004 {Ishmahri}
+47: npc/p022a
+48: npc/p024b
+49: npc/cp001h {Marcello (Injured)}
+50: npc/ep001 {Red}
+51: npc/p055a
+52: npc/p050a
+53: npc/p013a
+54: npc/a008a
+55: npc/p065a
+56: npc/p058a
+57: npc/p028a
+58: npc/p037a
+59: npc/p052a
+60: npc/p049a
+61: npc/p054a
+62: npc/p046a
+63: npc/p048a
+64: npc/p051a
+65: npc/p053a
+66: npc/p043a
+67: npc/p025a
+68: npc/p031a
+69: npc/p038a
+70: npc/p048a
+71: npc/p057a
+72: npc/p013a
+73: npc/p046a
+74: npc/p020a
+75: npc/p024a
+76: npc/ap003
+77: monster/m046 {Soul Mole}
+78: monster/m266 {Don Mole}
+79: npc/p067a
+80: npc/p033a
+81: npc/p036a
+82: npc/p047a
+83: npc/gp001 {Cash}
+84: npc/gp002 {Carrie}
+85: npc/p040
+86: npc/p056a
+87: npc/p024a
+88: npc/p066a
+89: npc/p029a
+90: monster/m026 {She-Slime}
+91: monster/m109 {Healslime}
+92: npc/ip002 {King Maximillian}
+93: npc/ip001 {Princess Minnie}
+94: monster/m258 {Mud Mannequin}
+95: monster/m021 {Dracky}
+96: npc/hp001 {The Seer}
+97: npc/a009a
+98: monster/m087 {Great Sabrecat}
+99: npc/p028a_iro {Felix}
+100: npc/p038a
+101: npc/p027am
+102: npc/p013am
+103: npc/p014am
+104: npc/p018am
+105: npc/p011am
+106: npc/p022am
+107: npc/p048am
+108: npc/p028am
+109: npc/a001a
+110: player/c004_2 {Jessica (Jessica's Outfit)}
+111: npc/a007a
+112: monster/m108 {Man o' War}
+113: npc/p044a
+114: npc/p045a
+115: npc/p049a
+116: npc/p049b
+117: npc/jp001 {Prince Charmles}
+118: npc/jp002 {King Clavius}
+119: npc/p033a
+120: npc/a002a
+121: monster/m091 {Firespirit}
+122: npc/ep003 {Morrie}
+123: npc/lp001 {Dominico}
+124: npc/lp002 {David}
+125: npc/lp003 {Rydon}
+126: npc/lp004 {Sir Leopold}
+127: npc/mp002 {Marta}
+128: npc/mp003 {Marek}
+129: npc/mp004 {Boris}
+130: monster/m130 {Walking Corpse}
+131: npc/p068a
+132: npc/p069a
+133: npc/mp007 {Hellhound}
+134: npc/ep002 {Mitts}
+135: npc/ip003 {High Priest Rolo}
+136: npc/np002 {Empyrea}
+137: npc/op001 {Raya}
+138: npc/pp002 {Lord High Priest}
+139: npc/pp001 {Marcello (Sermon)}
+140: npc/np001 {Empycchu Chief}
+141: npc/p059a
+142: npc/p060a
+143: npc/p061a
+144: npc/p062a
+145: npc/p063a
+146: npc/p064a
+147: npc/p035a {Waterfall Shack Man}
+148: npc/p034a
+149: npc/p029a
+150: npc/p030a
+151: npc/p032a
+152: npc/a010a
+153: npc/a007a
+154: npc/p052am
+155: npc/p051am
+156: monster/m011 {Berserker}
+157: monster/m023 {Drackmage}
+158: monster/m005 {Bunicorn}
+159: monster/m138 {Treeface}
+160: monster/m133 {Restless Armour}
+161: monster/m048 {Lips}
+162: monster/m000 {Archdemon}
+163: monster/m007 {Imp}
+164: monster/m122 {Orc}
+165: monster/m126 {Mimic}
+166: monster/m009 {Rockbomb}
+167: monster/m140 {Gigantes}
+168: npc/np001_kage {Dark Empycchu Chief}
+169: npc/p059a_kage
+170: npc/p060a_kage
+171: npc/p061a_kage
+172: npc/p062a_kage
+173: npc/p063a_kage
+174: npc/p064a_kage
+175: npc/kp002 {Evil Jessica}
+176: npc/p048ap
+177: npc/p048ap_02
+178: npc/p048ap_03
+179: npc/p014ap
+180: npc/p012ap
+181: npc/p020ap
+182: npc/p054ap
+183: npc/p013ap
+184: npc/p023ap
+185: npc/p028ap
+186: npc/p027ap
+187: npc/p053ap
+188: npc/p057ap
+189: npc/p034ap
+190: npc/p031ap
+191: npc/p010ap
+192: npc/a005ap
+193: monster/m271 {Argon Lizard}
+194: monster/m272 {Great Argon Lizard}
+195: monster/m020 {Lump Mage}
+196: monster/m124 {Winky}
+197: npc/p046am
+198: npc/ep004
+199: monster/m269 {Red Horn}
+200: monster/m268 {Blue Fang}
+201: npc/ep005 {Ragnar}
+202: npc/ep006 {Torneko}
+203: npc/ip002b {King Maximillian (Bedridden)}
+204: npc/p034a_kage
+205: monster/mp007 {Hellhound}
+206: npc/p043a_kage
+207: npc/a009a_kage
+208: npc/mp001 {Evil Sir Leopold}
+209: npc/lp005 {Sir Leopold (Sceptre)}
+210: monster/m280 {Gemon}
+211: monster/m279 {Captain Crow}
+212: npc/e1403_3_soul {Godbird's Soulstone}
+213: npc/np002kage {Empyrea's shadow}
+214: npc/qp001 {King Squid}
+215: npc/qp002
+216: npc/rp001 {Medea (Wedding)}
+217: npc/rp002 {Prince Charmles (Wedding)}
+218: npc/rp003
+219: npc/sp001 {Chen Mui}
+220: npc/sp002 {Lord of the Dragovians}
+221: npc/p070a
+222: npc/p071a
+223: npc/p072a
+224: npc/p073a
+225: npc/rg04
+226: npc/rg05
+227: npc/rg06
+228: npc/rg07
+229: npc/rg08
+230: npc/rg09
+231: npc/rg10
+232: npc/rg11
+233: npc/rg12
+234: npc/rg13
+235: npc/rg14
+236: npc/rg15
+237: npc/rg16
+238: npc/rg17
+239: npc/a011a
+240: monster/m260 {Hell Hornet}
+241: monster/m053 {Elysium Bird}
+242: monster/m013 {Boss Troll}
+243: npc/qp016 {Black Citadel}
+244: npc/p018b
+245: npc/p012a
+246: ?
+247: ?
+248: ?
+249: ?
+250: monster/m284 {Rhapthorne (Form 1)}
+251: npc/fp002 {Medea (Human)}
+252: npc/fp001 {King Trode (Human)}
+253: npc/fp001_rp {King Trode (Human, Holding Stick)}
+254: monster/m294 {Lord of the Dragovians (Dragon)}
+255: npc/a004a
+256: npc/lp004_b {Sir Leopold (Eating)}
+257: npc/lp001_b {Dominico (Conjuring)}
+258: npc/po24c
+259: npc/p024d
+260: npc/p024e
+261: npc/p011a_iro
+262: npc/p012a_iro
+263: npc/p013a_iro
+264: npc/p018a_iro
+265: npc/p020a_iro
+266: npc/p022a_iro
+267: npc/p023a_iro
+268: npc/p024a_iro
+269: npc/p024a_iro2
+270: npc/p024a_iro3
+271: npc/p025a_iro
+272: npc/p025a_iro2
+273: npc/p027a_iro
+274: npc/p027a_iro2
+275: npc/p033a_iro
+276: npc/p043a_iro
+277: npc/p046a_iro
+278: npc/p051a_iro
+279: npc/p052a_iro
+280: npc/p070a_iro
+281: npc/p073a_iro
+282: npc/dp003_ito {Emma (Loom)}
+283: npc/kp001 {Dhoulmagus (Form 2)}
+284: npc/ip004 {Baumren}
+285: npc/rp003w2
+286: npc/a009a_kage_b
+287: npc/s002a {Lord High Priest's Coffin}
+288: monster/m092 {Lost Soul}
+289: npc/p013f
+290: npc/p040a
+291: npc/p041a
+292: npc/p042a
+293: npc/pp003
+294: npc/dp004_hk {Ishmahri (Broken Harp)}
+295: npc/p074a
+296: npc/p075a
+297: Unknown {Don Mole}
+298: npc/fp002 {Medea (Human)}

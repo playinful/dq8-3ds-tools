@@ -1,0 +1,11 @@
+01: Normal Chest
+02: Blue Chest?
+03: Barrel/Pot
+04: Empty Barrel/Pot
+05: Salamango
+06: Hanging Bag
+07: Wardrobe
+08: Book
+09: N/A
+0A: No animation, item collected
+0B+: N/A
