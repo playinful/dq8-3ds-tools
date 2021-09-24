@@ -1,0 +1,79 @@
+c01 - Castle Trodain
+c02 - Ascantha
+c03 - Argonia
+c04 - Princess Minnie's Castle
+c05 - Castle Trodain (Restored)
+d01 - Waterfall Cave
+d02 - Wisher's Peak
+d03 - Swordsman's Labyrinth
+d04 - Royal Hunting Ground
+d05 - Ruined Abbey
+d06 - Dragon Graveyard
+d07 - Pirate's Cove
+d08 - Short Border Tunnel
+d09 - Mole Hole
+d10 - Herb Grotto
+d11 - Dragovian Path
+d12 - Heavenly Dais
+d13 - Altar of Wroth
+d14 - Memories Lane
+m01 - Farebury
+m02 - Alexandria
+m03 - Port Prospect
+m04 - Pickham
+m05 - Baccarat
+m06 - Simpleton
+m07 - Empycchu
+m08 - Arcadia
+m09 - Orkutsk
+m10 - Tryan Gully
+m11 - Dragovian Sanctuary
+m12 - Dark Empycchu
+s01 - Peregrin Quay
+s02 - Riverside Chapel / Emma's Home
+s03 - Wisher's Peak Summit
+s04 - Moonshadow Land
+s05 - Red's Den
+s07 - Peddlers' Tent
+s08 - Seer's Retreat
+s09 - Mystical Spring
+s11 - Ferry
+s13 - Hilltop Hut
+s14 - Marta's Cottage
+s16 - Lord High Priest's Residence
+s18 - Shack on top of Waterfall
+s19 - Purgatory Isle
+s22 - Egeus' Tablet
+s23 - Mysterious Altar
+s24 - Chateau Felix
+s25 - Seaview Church
+s28 - ?
+s29 - ?
+s30 - ?
+s31 - Lakeside Cabin
+s35 - High place South of Empyrea
+s36 - Howlwind Hill
+s38 - Monster Arena
+s40 - High place on Northwest Isle
+s41 - Hill on Argonia's Western Border
+s42 - Mountain Overlooking Desert
+s43 - High place Near Neos
+s50 - ?
+s51 - Trolls' Maze
+s52 - Le Club Puff-Puff
+s53 - Wooded Opening
+t01 - Tower of Alexandra
+t02 - Godbird's Eyrie
+t03 - Rydon's Tower
+t04 - Godbird's Eyrie (Dark)
+w01 - Overworld
+  w01a01 - ?
+...
+w02 - Ocean
+w03 - Sky
+x01 - Neos
+x02 - Maella Abbey
+x03 - Dark Ruins
+x04 - Savella Cathedral
+x05 - Black Citadel
+x06 - Neos (Ruined)
